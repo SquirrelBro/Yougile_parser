@@ -14,7 +14,7 @@ def html_to_text(html):
     return soup.get_text()
 
 
-with open("Медиаполе.json", 'r', encoding='utf-8') as f:
+with open("example.json", 'r', encoding='utf-8') as f:
     boards_i_tasks = json.load(f)
 
 stick_dick = {}

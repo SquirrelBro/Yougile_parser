@@ -1,0 +1,2332 @@
+{
+    "title": "FsBCAXtzHX",
+    "stickers": [
+        {
+            "id": "a062ac05-085c-421f-a259-510477a53ebe",
+            "title": "Баланс",
+            "states": {
+                "index": {
+                    "48eb6ec36a8d": {
+                        "id": "48eb6ec36a8d",
+                        "name": "Забаланшено",
+                        "color": "sticker-green"
+                    },
+                    "734e94e76817": {
+                        "id": "734e94e76817",
+                        "name": "Есть вопросики",
+                        "color": "sticker-red"
+                    }
+                },
+                "order": [
+                    "48eb6ec36a8d",
+                    "734e94e76817"
+                ]
+            },
+            "properties": {
+                "stickerType": "string",
+                "stickerIcon": "string"
+            }
+        },
+        {
+            "id": "d58ac69b-751d-4528-ada2-95ec4d7fc04f",
+            "title": "Автор",
+            "states": {
+                "index": {
+                    "a0540b7d087e": {
+                        "id": "a0540b7d087e",
+                        "name": "Панк",
+                        "color": "sticker-violet"
+                    },
+                    "c25964f22f79": {
+                        "id": "c25964f22f79",
+                        "name": "Лев",
+                        "color": "sticker-violet"
+                    },
+                    "400ccd355f6e": {
+                        "id": "400ccd355f6e",
+                        "name": "Никита",
+                        "color": "sticker-violet"
+                    },
+                    "350469b47791": {
+                        "id": "350469b47791",
+                        "name": "Яга",
+                        "color": "sticker-violet"
+                    }
+                },
+                "order": [
+                    "a0540b7d087e",
+                    "c25964f22f79",
+                    "400ccd355f6e",
+                    "350469b47791"
+                ]
+            },
+            "properties": {
+                "stickerType": "string",
+                "stickerIcon": ""
+            }
+        },
+        {
+            "id": "71124bc6-aa7c-4b9f-9f03-5d006a309350",
+            "title": "mnTlPbmhvQ",
+            "states": {
+                "index": {
+                    "bf01d6422d0a": {
+                        "id": "bf01d6422d0a",
+                        "name": "Отрицательное",
+                        "color": "sticker-red"
+                    },
+                    "303b02ee0d82": {
+                        "id": "303b02ee0d82",
+                        "name": "Положительное",
+                        "color": "sticker-green"
+                    },
+                    "1a21c489981f": {
+                        "id": "1a21c489981f",
+                        "name": "Нейтральное",
+                        "color": "sticker-gray"
+                    }
+                },
+                "order": [
+                    "bf01d6422d0a",
+                    "303b02ee0d82",
+                    "1a21c489981f"
+                ]
+            },
+            "properties": {
+                "stickerType": "string",
+                "stickerIcon": "anchor"
+            }
+        },
+        {
+            "id": "4f9af8d0-23fe-495f-8138-94be62c8574f",
+            "title": "qfebcmyKVX",
+            "states": {
+                "index": {
+                    "1b018cc4c06e": {
+                        "id": "1b018cc4c06e",
+                        "name": "Социальные",
+                        "color": "sticker-orange"
+                    },
+                    "6389805fcadf": {
+                        "id": "6389805fcadf",
+                        "name": "Цифровые",
+                        "color": "sticker-blue"
+                    }
+                },
+                "order": [
+                    "1b018cc4c06e",
+                    "6389805fcadf"
+                ]
+            },
+            "properties": {
+                "stickerType": "string",
+                "stickerIcon": "string"
+            }
+        }
+    ],
+    "boards": [
+        {
+            "title": "WsciCkRGdF",
+            "stickers": {
+                "00034c16-00b9-4ac7-ab24-fb60dc92ec5e": {},
+                "00050d5a-64a9-49a6-8bec-f883d8909173": {},
+                "4fce20d2-24d0-4be0-b0df-0736750da030": {},
+                "0fb4e2ac-df62-43f5-b381-11674465f8dc": {},
+                "5d0ec892-d575-47ed-8ec0-70ebc0f6c006": {},
+                "d58ac69b-751d-4528-ada2-95ec4d7fc04f": {},
+                "71124bc6-aa7c-4b9f-9f03-5d006a309350": {},
+                "4f9af8d0-23fe-495f-8138-94be62c8574f": {},
+                "a062ac05-085c-421f-a259-510477a53ebe": {},
+                "a3000cc4-d742-450d-bca2-8e6728f74a0b": {}
+            },
+            "columns": [
+                {
+                    "title": "nOssNXNwFX",
+                    "color": "",
+                    "tasks": [
+                        "00c67888-84ec-43c2-85c7-101631e177c0",
+                        "9d471121-b3ff-45c6-8486-84f40d0e9f2d",
+                        "0ce40099-43dc-4952-bb04-a1cf6ab95176",
+                        "4fd5c470-3b92-4568-ab97-5c69527f7b30",
+                        "8c31606a-2417-4c27-907f-36f059ae62d8",
+                        "f8353279-abc0-4688-9056-d4a5d39d0ddb",
+                        "b79678e5-8498-4636-a676-1dde501bc6ee"
+                    ]
+                },
+                {
+                    "title": "Действия",
+                    "color": "",
+                    "tasks": [
+                        "0514a01b-7050-4600-b640-00ce3008be65",
+                        "14ce0934-d4a6-41ba-b92e-d12cbed94113",
+                        "0e62c964-0ba0-4525-bad5-4313407a3a74",
+                        "eb664500-0029-4e07-8807-b1072059a011",
+                        "472f2eb5-e815-450f-a88e-0d2c655f00ce",
+                        "7df7c54c-9a48-4df4-b7e1-0321ed74da82",
+                        "3a13da45-44b4-4899-a7f0-cd3020aa2678",
+                        "80338eed-9028-4038-8346-187ee306a57c",
+                        "af19dd16-fdda-4ffd-a0f0-a1d0f85013ce",
+                        "a9b845d5-54d5-400d-bb4d-bfa5c2a66432",
+                        "2abfc080-2061-4f3b-aad3-030946c7b445",
+                        "c4d8b74f-0a14-40b3-bc50-ac0d00fec6a0",
+                        "3cb930a7-02f4-4b58-ba29-f77b65cc0082",
+                        "0a0cba6f-6f37-4707-b80f-a09ca750f049",
+                        "4f78bf25-7e80-4020-8297-4bf50654780b",
+                        "2b1860d4-a99b-4f6d-be72-e940f170edc4",
+                        "c08544c0-4c13-4700-8a3a-58ff97f760d0",
+                        "5a001860-184a-4cfc-9bf9-60179199d234",
+                        "68ad8102-107d-490e-b392-0413af00b0e9",
+                        "e9c16d3f-9aa8-4067-8005-3449cdbe024a",
+                        "aec002a3-a9d9-4279-b422-02f0817e1e6a",
+                        "0b0e88ea-8d5f-4395-9fa7-d8512c0ee506",
+                        "946e208e-f003-4524-803e-4014b987fc7e",
+                        "3de97582-fd24-44e0-87ee-b80600c90b42",
+                        "fb2b544b-5381-43e1-8064-a40e72b440fa",
+                        "0f94c0c6-d8f7-4a17-8664-126f26d17022",
+                        "84731bb6-20aa-4a05-80f7-e5a2d9f75b77",
+                        "5355048c-43b8-42d0-9fcd-5674bda958f0",
+                        "c41389d6-e902-4464-88a0-624b783bb580",
+                        "0be5145d-098e-4540-aaad-388c9450bb0c",
+                        "447cf461-eedb-44b0-9290-84e7a5f050b6",
+                        "04adb4a6-600e-4202-901c-9dd8b94cd9de",
+                        "546e6c3f-7a11-4130-bfef-e0ec78d7ef78",
+                        "1070d801-d454-494e-badc-b766cde8585a",
+                        "20c1210b-df45-43aa-a6c3-f5d6b03dbd68",
+                        "973cf7fb-e9ea-4220-90ae-974f6ca2d56f",
+                        "b2a1d818-9493-4f22-9844-7348c80b039b",
+                        "59375568-c950-4b55-b886-c0b1370a3844",
+                        "ca5f7e50-88db-4716-b0ac-f606b0e33115",
+                        "74ab3006-71e0-4e76-af03-029cb75d342d",
+                        "aa80d77d-9cf4-46af-956d-d46cf81c7476"
+                    ]
+                },
+                {
+                    "title": "Пассивные эффекты",
+                    "color": "",
+                    "tasks": [
+                        "56cd3baf-38e4-416a-8f50-dc84b1fe1c74",
+                        "78e84c8c-9620-4d62-8b33-49b28ce402a0",
+                        "42314e8a-03d9-4334-9cab-6d08e5ae763f",
+                        "0d41144f-f8b0-4304-a708-58d625a0a756",
+                        "b0b1608c-0118-4359-b054-c6acd8cbea7f",
+                        "0ebc957e-7b06-4700-b18e-9d04854b4535",
+                        "67dbe8fa-d733-46b9-a1a4-605f44a0d00f",
+                        "190c1a26-5706-4505-ba9e-f0bdab188b45",
+                        "5f6e08cd-41a0-4288-a3a4-d0233d0d6739",
+                        "69eaf59f-30a8-4bae-bcc1-307a649cb25b",
+                        "c3e4ce74-26f6-4b6b-bdf4-a81c275c70fa",
+                        "ce8215c3-c000-4a24-b168-9ec2ee550608",
+                        "ea047a10-f4fd-40f2-8f0b-c9ac2dee97ca",
+                        "00f043a2-650f-405a-834d-0de7a06808e4",
+                        "f90cd08e-5307-4129-8e62-594f730bd0a8",
+                        "451af287-0cc0-4fd6-ad1d-a026c69f570b",
+                        "c513b75a-5f45-45e2-a6be-fc800a2b33c4",
+                        "000c11aa-f43e-40b1-a950-257dc5a3db23",
+                        "29cb26b3-c15e-4a28-bf2b-055a869724ff",
+                        "bdcf6e1f-e2fe-4fc1-a1c6-003752bb1bc0",
+                        "1c42b962-c8b5-407f-b2ea-761570555a08"
+                    ]
+                },
+                {
+                    "title": "Защитные эффекты",
+                    "color": "",
+                    "tasks": [
+                        "06473800-fe92-4c0e-87ee-410b03cfd243",
+                        "4101a881-5f67-4835-bd08-69e61e036316",
+                        "f1be3b89-01b2-499c-91ff-b5f1c07473ff",
+                        "929c723c-2784-4760-9bf5-a32afa1117be",
+                        "df028b48-0bb7-490c-ab5f-c91038ed89e0",
+                        "b3313170-89b0-4d66-aab1-ff31068282eb",
+                        "0ba6f02f-8635-45b4-8b8e-3a49b6c24828",
+                        "9ab25798-a470-460e-aff4-796df675242f",
+                        "3b4ca890-71b5-4c6e-bb61-e2b5ad7f6d7f"
+                    ]
+                },
+                {
+                    "title": "События",
+                    "color": "",
+                    "tasks": [
+                        "fb957a5f-34a3-4704-affc-0c28a55ec238",
+                        "35a7142f-3b10-4330-9854-6c0cfbf002e0",
+                        "5ecd6b2f-c652-488c-aea3-63f774d50280",
+                        "92d0d86f-28c5-4488-9e39-e2cd3df3045a",
+                        "990f38b3-7761-44cd-ae04-71242c303ec0",
+                        "06c0100c-b2af-44b1-b4e3-4af0edab5377",
+                        "50e09c52-7299-405a-92e0-ef6582a6f41a",
+                        "07eb2790-1dd5-4256-b2c7-054ae0c55041",
+                        "03167995-faae-4b65-9f93-709ec43fa405",
+                        "7db44c5e-c3a7-4324-9025-f777347d1603",
+                        "181c3c8b-0a24-472a-b004-037b7aa44b51",
+                        "634b4e10-ee0a-48d9-b16d-bdf102030b90",
+                        "78490fcd-3722-46ed-a418-33ed07caa0a6",
+                        "da8dce33-0320-4977-b8dd-61125a9a1a29",
+                        "8cd04cb5-a844-4ddf-8fb8-7f4f32700371",
+                        "87a22fd9-9133-4684-87c2-cc7952185c2e",
+                        "5d3c6980-0f4d-41cb-aff0-54ec1f9d3ef1",
+                        "bc93a6fd-a379-4000-b490-3f0a275910b1",
+                        "102371d5-a999-4aa9-8006-607710ca6ba3",
+                        "41878284-d694-4783-8a34-c260bca97692",
+                        "de19192b-9dea-4472-b84f-679bd1559749",
+                        "f0cd538b-5fbd-4d11-94ca-78de00c0bb2c",
+                        "022d1f30-6042-4218-a72b-1d29a1abd0d8",
+                        "e4670463-94d0-4589-acc4-782db2322b0e",
+                        "41754ab5-483d-4b6f-976e-10de218dd509",
+                        "f7af00c3-e587-4910-a83a-0c1df6a6c9d5",
+                        "0e2270d1-090b-4c19-a703-b13b89684820",
+                        "f2de9361-e940-4905-b5e7-5f02cb70c531",
+                        "096acd40-a7dc-4260-836f-c764e341d015",
+                        "c2f59470-6639-49b1-99d3-a92740086233",
+                        "3f0ed43c-850f-4192-800b-0666f5080e0e",
+                        "df0a9919-c8d3-4b15-9e1a-43fe3faab6e0",
+                        "5da90dc5-5eda-4604-aa46-ee360a5dc5d1",
+                        "40f49f00-c831-4394-b4ef-c552182fb995",
+                        "ab119e67-b62b-4fc3-a916-9840b25c6c61",
+                        "323b302c-1a9e-4385-b93f-4f0e266b6b71",
+                        "5f9e0911-1f61-4175-b239-cf1a8c0137fe",
+                        "6ab7e8f7-02ca-4376-a060-c883b0dfbe08",
+                        "b09531d3-0392-473b-8200-489e5cd045b1",
+                        "0b26d6ec-2382-4aca-b732-3f19223121f0",
+                        "25a8f438-f83c-4da9-8090-6807ed931c98",
+                        "e279f111-50de-4ac1-bf40-e1f68c0e20bd",
+                        "0697d076-83c7-4015-85b2-ec2e09e99056",
+                        "e102b1cb-9b53-47f7-825c-6160c05b2bc1",
+                        "97ca1dfd-2da6-4c1d-a0a0-ba2147cb5a01",
+                        "e1fa9050-933f-4c01-b3a1-b68f0d9b2292",
+                        "1d654300-96f4-4039-9b6e-f9d42722167c",
+                        "9d4b8cd8-7674-46d7-afe0-b0f0e19a0e7e",
+                        "a75bf87a-1fba-4016-8165-cebb516fa390",
+                        "3dae2900-0483-4b48-8ca1-f1093217b04c",
+                        "d53f4d2f-c4b1-485f-8d29-c75731fbf842",
+                        "b915a6d0-5d7a-4ddd-a506-e3aadd7fb3e9",
+                        "a9061b34-b0fe-482d-9d12-baddcb20b2bc",
+                        "fd40d371-a516-4416-aca5-3a65f69baa95",
+                        "e3f23af7-c98e-4b4b-9780-8d8d93c50504",
+                        "ea07c48d-6ee4-4f31-abb2-097396093a25",
+                        "6f461586-0bb2-4bc3-b67d-c4dee988571c",
+                        "371c0ef0-1651-4f56-a53a-4ab8073b0df5",
+                        "8d27bc1f-8d9f-410b-a9bc-f7df2d109826"
+                    ]
+                },
+                {
+                    "title": "Персонажи",
+                    "color": "",
+                    "tasks": [
+                        "f0da8057-eac8-4907-8fee-d912ab04e7b4",
+                        "510e5b25-07f8-4898-8896-53954624b9d8",
+                        "c4083090-d802-4d5b-a4b9-6a2b683bc07c",
+                        "28857c15-1002-4061-9443-8010cc2287a2",
+                        "0c73660a-d001-40ff-a7b5-069e0070ce91",
+                        "40ed7c37-0b06-4117-950c-031254bc06bf",
+                        "196ba60e-0474-410f-b364-d7ce307b090e",
+                        "e14ab905-07be-48c3-9e56-203f17d9e4bd",
+                        "0b1d4783-70ac-4c15-a40b-bfeb21187785"
+                    ]
+                },
+                {
+                    "title": "jmRBuxWDop",
+                    "color": "",
+                    "tasks": []
+                }
+            ]
+        }
+    ],
+    "tasks": {
+        "80338eed-9028-4038-8346-187ee306a57c": {
+            "title": "kgyiEXuHKx",
+            "timestamp": 1721696401637,
+            "description": "qRdLBtOmGI",
+            "data": {
+                "by": "fc0ea4d2-d4b8-4c0f-be10-468768831d42",
+                "descriptionModifiedAt": 1721972179469
+            },
+            "chat": {
+                "id": "262d2fb9-ab39-4d8f-bc0e-e11d6aed8d8d",
+                "timestamp": 1722406346911,
+                "dataType": "Chat",
+                "messages": {},
+                "lastSeenMessages": {}
+            },
+            "stickers": {
+                "4fce20d2-24d0-4be0-b0df-0736750da030": "2",
+                "0fb4e2ac-df62-43f5-b381-11674465f8dc": "4",
+                "d58ac69b-751d-4528-ada2-95ec4d7fc04f": "400ccd355f6e",
+                "5d0ec892-d575-47ed-8ec0-70ebc0f6c006": "1",
+                "a3000cc4-d742-450d-bca2-8e6728f74a0b": "2.5",
+                "a062ac05-085c-421f-a259-510477a53ebe": "48eb6ec36a8d"
+            },
+            "subtasks": []
+        },
+        "af19dd16-fdda-4ffd-a0f0-a1d0f85013ce": {
+            "title": "GHpOfAVucU",
+            "timestamp": 1721663917094,
+            "description": "VBuLTUVoKR",
+            "data": {
+                "by": "fc0ea4d2-d4b8-4c0f-be10-468768831d42",
+                "descriptionModifiedAt": 1721973253295
+            },
+            "chat": {
+                "id": "adaedb17-3930-4ed0-b432-2162a8bfd5c0",
+                "timestamp": 1721666316247,
+                "dataType": "Chat",
+                "messages": {
+                    "1721666316248": {
+                        "id": "ff408800-5732-40f8-b5ad-2d7e95353303",
+                        "timestamp": 1721666316248,
+                        "dataType": "ChatMessage",
+                        "properties": {
+                            "fromSystem": true,
+                            "move": true,
+                            "from": "4702af87-425a-4fc8-9c17-513904573001",
+                            "to": "0dc3d906-40fb-4400-ade7-1e5a351e96c9",
+                            "actionBy": "fc0ea4d2-d4b8-4c0f-be10-468768831d42"
+                        },
+                        "from": "0000bdc7-0363-4d30-b5d3-5e0fc72f811f",
+                        "text": "."
+                    },
+                    "1721698800198": {
+                        "id": "c1005890-3f2f-4bf7-868a-08948acae56a",
+                        "timestamp": 1721698800198,
+                        "dataType": "ChatMessage",
+                        "properties": {
+                            "fromSystem": true,
+                            "move": true,
+                            "from": "0dc3d906-40fb-4400-ade7-1e5a351e96c9",
+                            "to": "4702af87-425a-4fc8-9c17-513904573001",
+                            "actionBy": "0c2d023d-20e3-4cdf-8969-a6067bf38093"
+                        },
+                        "from": "0000bdc7-0363-4d30-b5d3-5e0fc72f811f",
+                        "text": "."
+                    }
+                },
+                "lastSeenMessages": {
+                    "0000bdc7-0363-4d30-b5d3-5e0fc72f811f": 1721698800198,
+                    "0c2d023d-20e3-4cdf-8969-a6067bf38093": 1721698800198,
+                    "01389292-d0a4-480e-8db6-ae929109e01e": 1721698800198,
+                    "fc0ea4d2-d4b8-4c0f-be10-468768831d42": 1721698800198
+                }
+            },
+            "stickers": {
+                "0fb4e2ac-df62-43f5-b381-11674465f8dc": "3",
+                "4fce20d2-24d0-4be0-b0df-0736750da030": "2",
+                "5d0ec892-d575-47ed-8ec0-70ebc0f6c006": "0",
+                "d58ac69b-751d-4528-ada2-95ec4d7fc04f": "400ccd355f6e",
+                "a3000cc4-d742-450d-bca2-8e6728f74a0b": "1",
+                "a062ac05-085c-421f-a259-510477a53ebe": "48eb6ec36a8d"
+            },
+            "subtasks": []
+        },
+        "a9b845d5-54d5-400d-bb4d-bfa5c2a66432": {
+            "title": "ADsKlwboUb",
+            "timestamp": 1721696296161,
+            "description": "oRBCmQgUHa",
+            "data": {
+                "by": "fc0ea4d2-d4b8-4c0f-be10-468768831d42",
+                "descriptionModifiedAt": 1722328215804
+            },
+            "chat": {
+                "id": "9e0b3018-b760-4fba-9801-3076b2859cf2",
+                "timestamp": 1722242164824,
+                "dataType": "Chat",
+                "messages": {
+                    "1722242270149": {
+                        "id": "6e07a71e-dc67-4683-8b20-a6a66026e7fb",
+                        "timestamp": 1722242270149,
+                        "dataType": "ChatMessage",
+                        "from": "01389292-d0a4-480e-8db6-ae929109e01e",
+                        "text": "Предлагаю отдавать карты по 4 монеты другим игрокам или в сброс"
+                    },
+                    "1722242532970": {
+                        "id": "4054f0a7-4c77-4e62-bd13-22ab109460a7",
+                        "timestamp": 1722242532970,
+                        "dataType": "ChatMessage",
+                        "from": "01389292-d0a4-480e-8db6-ae929109e01e",
+                        "text": "Можете отдать каждому игроку по карте, начиная с игрока слева от вас. За каждонную переданную карту получите 4 монеты,"
+                    },
+                    "1722245942283": {
+                        "id": "d819e87e-0459-4301-86af-1d2cf3c0c585",
+                        "timestamp": 1722245942283,
+                        "dataType": "ChatMessage",
+                        "from": "fc0ea4d2-d4b8-4c0f-be10-468768831d42",
+                        "text": "Вариант Антона топ"
+                    },
+                    "1722327309185": {
+                        "id": "91206821-60d0-4961-b2b6-11f6800eb5b6",
+                        "timestamp": 1722327309185,
+                        "dataType": "ChatMessage",
+                        "properties": {
+                            "params": {
+                                "chunks": [
+                                    {
+                                        "type": "user",
+                                        "replacement": "test123",
+                                        "data": {
+                                            "userId": "01389292-d0a4-480e-8db6-ae929109e01e"
+                                        }
+                                    }
+                                ]
+                            },
+                            "replyTo": 1722242532970
+                        },
+                        "from": "0c2d023d-20e3-4cdf-8969-a6067bf38093",
+                        "text": "у нас не монеты, а доход"
+                    }
+                },
+                "lastSeenMessages": {
+                    "01389292-d0a4-480e-8db6-ae929109e01e": 1722245942283,
+                    "fc0ea4d2-d4b8-4c0f-be10-468768831d42": 1722327309185,
+                    "0c2d023d-20e3-4cdf-8969-a6067bf38093": 1722327309185
+                }
+            },
+            "stickers": {
+                "4fce20d2-24d0-4be0-b0df-0736750da030": "1",
+                "0fb4e2ac-df62-43f5-b381-11674465f8dc": "2",
+                "5d0ec892-d575-47ed-8ec0-70ebc0f6c006": "1",
+                "d58ac69b-751d-4528-ada2-95ec4d7fc04f": "400ccd355f6e",
+                "a3000cc4-d742-450d-bca2-8e6728f74a0b": "2.5",
+                "a062ac05-085c-421f-a259-510477a53ebe": "734e94e76817"
+            },
+            "subtasks": []
+        },
+        "2abfc080-2061-4f3b-aad3-030946c7b445": {
+            "title": "JSUAyRBLeS",
+            "timestamp": 1721696214076,
+            "description": "EEyfyaRSwh",
+            "data": {
+                "by": "fc0ea4d2-d4b8-4c0f-be10-468768831d42",
+                "descriptionModifiedAt": 1722256992588
+            },
+            "chat": {
+                "id": "bdfa74a6-2667-4f8c-9e77-e1419adee701",
+                "timestamp": 1722406346911,
+                "dataType": "Chat",
+                "messages": {},
+                "lastSeenMessages": {}
+            },
+            "stickers": {
+                "4fce20d2-24d0-4be0-b0df-0736750da030": "1",
+                "0fb4e2ac-df62-43f5-b381-11674465f8dc": "2,4",
+                "5d0ec892-d575-47ed-8ec0-70ebc0f6c006": "1",
+                "d58ac69b-751d-4528-ada2-95ec4d7fc04f": "400ccd355f6e",
+                "a3000cc4-d742-450d-bca2-8e6728f74a0b": "2.7",
+                "a062ac05-085c-421f-a259-510477a53ebe": "48eb6ec36a8d"
+            },
+            "subtasks": []
+        },
+        "c4d8b74f-0a14-40b3-bc50-ac0d00fec6a0": {
+            "title": "naxsmQFwFd",
+            "timestamp": 1721696093825,
+            "description": "SrGDOjBeBB",
+            "data": {
+                "by": "fc0ea4d2-d4b8-4c0f-be10-468768831d42",
+                "descriptionModifiedAt": 1721974054473
+            },
+            "chat": {
+                "id": "5d841630-508d-4910-a410-b6f079b72c1d",
+                "timestamp": 1722406346911,
+                "dataType": "Chat",
+                "messages": {},
+                "lastSeenMessages": {}
+            },
+            "stickers": {
+                "0fb4e2ac-df62-43f5-b381-11674465f8dc": "2",
+                "4fce20d2-24d0-4be0-b0df-0736750da030": "2",
+                "5d0ec892-d575-47ed-8ec0-70ebc0f6c006": "1",
+                "d58ac69b-751d-4528-ada2-95ec4d7fc04f": "400ccd355f6e",
+                "a3000cc4-d742-450d-bca2-8e6728f74a0b": "2.5",
+                "a062ac05-085c-421f-a259-510477a53ebe": "48eb6ec36a8d"
+            },
+            "subtasks": []
+        },
+        "3cb930a7-02f4-4b58-ba29-f77b65cc0082": {
+            "title": "pOVUZOPmju",
+            "timestamp": 1721696021268,
+            "description": "RTdDzYTsaa",
+            "data": {
+                "by": "fc0ea4d2-d4b8-4c0f-be10-468768831d42",
+                "descriptionModifiedAt": 1722327614873
+            },
+            "chat": {
+                "id": "8afdd9a0-7142-4ee4-beaf-6e45b580bc64",
+                "timestamp": 1722172887469,
+                "dataType": "Chat",
+                "messages": {
+                    "1722173794883": {
+                        "id": "3d201a00-be13-4a29-82a0-76009903f829",
+                        "timestamp": 1722173794883,
+                        "dataType": "ChatMessage",
+                        "from": "01389292-d0a4-480e-8db6-ae929109e01e",
+                        "text": "Сомнительное изменение, получить 1 карту это 1 ст, получить 2 популярности это 1 ст, итого сейчас обмен карт на популярность по коэффиценту 0.5"
+                    },
+                    "1722327625869": {
+                        "id": "cda0345e-a0b4-4985-91c9-1df4ed843b7c",
+                        "timestamp": 1722327625869,
+                        "dataType": "ChatMessage",
+                        "properties": {
+                            "params": {
+                                "chunks": [
+                                    {
+                                        "type": "user",
+                                        "replacement": "test123",
+                                        "data": {
+                                            "userId": "01389292-d0a4-480e-8db6-ae929109e01e"
+                                        }
+                                    }
+                                ]
+                            },
+                            "replyTo": 1722173794883
+                        },
+                        "from": "0c2d023d-20e3-4cdf-8969-a6067bf38093",
+                        "text": "Поправил на 3 pop, согласен"
+                    }
+                },
+                "lastSeenMessages": {
+                    "01389292-d0a4-480e-8db6-ae929109e01e": 1722173794883,
+                    "0c2d023d-20e3-4cdf-8969-a6067bf38093": 1722327625869,
+                    "fc0ea4d2-d4b8-4c0f-be10-468768831d42": 1722327625869
+                }
+            },
+            "stickers": {
+                "4fce20d2-24d0-4be0-b0df-0736750da030": "1",
+                "0fb4e2ac-df62-43f5-b381-11674465f8dc": "1",
+                "5d0ec892-d575-47ed-8ec0-70ebc0f6c006": "0",
+                "d58ac69b-751d-4528-ada2-95ec4d7fc04f": "400ccd355f6e",
+                "a3000cc4-d742-450d-bca2-8e6728f74a0b": "1",
+                "a062ac05-085c-421f-a259-510477a53ebe": "48eb6ec36a8d"
+            },
+            "subtasks": []
+        },
+        "0a0cba6f-6f37-4707-b80f-a09ca750f049": {
+            "title": "AsCfZmnWNa",
+            "timestamp": 1721695842465,
+            "description": "HtdbEbzMUt",
+            "data": {
+                "by": "fc0ea4d2-d4b8-4c0f-be10-468768831d42",
+                "descriptionModifiedAt": 1721974415184
+            },
+            "chat": {
+                "id": "891110e8-0f7e-4604-90f4-a1aad054ff95",
+                "timestamp": 1722406346911,
+                "dataType": "Chat",
+                "messages": {},
+                "lastSeenMessages": {}
+            },
+            "stickers": {
+                "4fce20d2-24d0-4be0-b0df-0736750da030": "2",
+                "0fb4e2ac-df62-43f5-b381-11674465f8dc": "1,2",
+                "5d0ec892-d575-47ed-8ec0-70ebc0f6c006": "1",
+                "d58ac69b-751d-4528-ada2-95ec4d7fc04f": "400ccd355f6e",
+                "a062ac05-085c-421f-a259-510477a53ebe": "48eb6ec36a8d",
+                "a3000cc4-d742-450d-bca2-8e6728f74a0b": "2.5"
+            },
+            "subtasks": []
+        },
+        "946e208e-f003-4524-803e-4014b987fc7e": {
+            "title": "BMTVSoVydN",
+            "timestamp": 1721628726513,
+            "description": "IMpsLgTyZm",
+            "data": {
+                "by": "01389292-d0a4-480e-8db6-ae929109e01e",
+                "checklists": [],
+                "createdByTemplateId": "0d0ab003-c7a3-41a2-8077-482a250226b1",
+                "descriptionModifiedAt": 1721976367028
+            },
+            "chat": {
+                "id": "d9f29901-2030-4e0a-9792-390d8579711f",
+                "timestamp": 1722242164820,
+                "dataType": "Chat",
+                "messages": {
+                    "1722243092522": {
+                        "id": "0623680e-ce1d-4bfa-b888-a82c70c299c8",
+                        "timestamp": 1722243092522,
+                        "dataType": "ChatMessage",
+                        "from": "01389292-d0a4-480e-8db6-ae929109e01e",
+                        "text": "Норм, стоит как-то формулировку поменять. И сила карты выше 2.3, так как стоит 0, по факту 1 доп ход"
+                    },
+                    "1722309578849": {
+                        "id": "a08ee700-8783-4f5c-b99b-e2decec33c29",
+                        "timestamp": 1722309578849,
+                        "dataType": "ChatMessage",
+                        "properties": {
+                            "params": {
+                                "chunks": [
+                                    {
+                                        "type": "user",
+                                        "replacement": "test123",
+                                        "data": {
+                                            "userId": "01389292-d0a4-480e-8db6-ae929109e01e"
+                                        }
+                                    }
+                                ]
+                            },
+                            "replyTo": 1722243092522
+                        },
+                        "from": "0c2d023d-20e3-4cdf-8969-a6067bf38093",
+                        "text": "сила карты чуть больше 1, т.к. ты выполняешь за счет неё 1 стандартное действие и можешь допом взять жетон тренда"
+                    }
+                },
+                "lastSeenMessages": {
+                    "01389292-d0a4-480e-8db6-ae929109e01e": 1722243092522,
+                    "fc0ea4d2-d4b8-4c0f-be10-468768831d42": 1722309578849,
+                    "0c2d023d-20e3-4cdf-8969-a6067bf38093": 1722309578849
+                }
+            },
+            "stickers": {
+                "0fb4e2ac-df62-43f5-b381-11674465f8dc": "3",
+                "4fce20d2-24d0-4be0-b0df-0736750da030": "1",
+                "5d0ec892-d575-47ed-8ec0-70ebc0f6c006": "0",
+                "d58ac69b-751d-4528-ada2-95ec4d7fc04f": "c25964f22f79",
+                "a3000cc4-d742-450d-bca2-8e6728f74a0b": "1.3",
+                "a062ac05-085c-421f-a259-510477a53ebe": "48eb6ec36a8d"
+            },
+            "subtasks": []
+        },
+        "3de97582-fd24-44e0-87ee-b80600c90b42": {
+            "title": "DolFhKGghQ",
+            "timestamp": 1721627999778,
+            "description": "bjaFgdDDxl",
+            "data": {
+                "by": "01389292-d0a4-480e-8db6-ae929109e01e",
+                "checklists": [],
+                "createdByTemplateId": "0d0ab003-c7a3-41a2-8077-482a250226b1",
+                "descriptionModifiedAt": 1722315395588
+            },
+            "chat": {
+                "id": "48d41682-9b85-4290-b30b-b59fe890af1e",
+                "timestamp": 1722242164819,
+                "dataType": "Chat",
+                "messages": {
+                    "1722243147362": {
+                        "id": "abf54589-0d05-44b4-90e2-85509f74259c",
+                        "timestamp": 1722243147362,
+                        "dataType": "ChatMessage",
+                        "from": "01389292-d0a4-480e-8db6-ae929109e01e",
+                        "text": "Как по мне норм"
+                    },
+                    "1722246715868": {
+                        "id": "e1e292eb-6c38-463a-aedc-b0d681169000",
+                        "timestamp": 1722246715868,
+                        "dataType": "ChatMessage",
+                        "from": "fc0ea4d2-d4b8-4c0f-be10-468768831d42",
+                        "text": "Если делаем много взаимодействия с жетонами трендов -> оч не норм, весь раунд на 0 делишь в некоторых случаях"
+                    },
+                    "1722246722180": {
+                        "id": "a35f8169-27ac-4348-8361-3790e388084c",
+                        "timestamp": 1722246722180,
+                        "dataType": "ChatMessage",
+                        "from": "fc0ea4d2-d4b8-4c0f-be10-468768831d42",
+                        "text": "а стоп"
+                    },
+                    "1722246732532": {
+                        "id": "20af599c-fbd4-4c79-b092-69fe4c33ef7f",
+                        "timestamp": 1722246732532,
+                        "dataType": "ChatMessage",
+                        "from": "fc0ea4d2-d4b8-4c0f-be10-468768831d42",
+                        "text": "про шо говорили, да\nне с всего поля же хд"
+                    },
+                    "1722246734558": {
+                        "id": "97012c00-8569-4073-9874-f4c6abddeabf",
+                        "timestamp": 1722246734558,
+                        "dataType": "ChatMessage",
+                        "from": "fc0ea4d2-d4b8-4c0f-be10-468768831d42",
+                        "text": "тогда норм"
+                    },
+                    "1722309680247": {
+                        "id": "373b03b5-0068-4a02-aede-61bd0b6693d1",
+                        "timestamp": 1722309680247,
+                        "dataType": "ChatMessage",
+                        "properties": {
+                            "params": {
+                                "chunks": [
+                                    {
+                                        "type": "user",
+                                        "replacement": "test123",
+                                        "data": {
+                                            "userId": "fc0ea4d2-d4b8-4c0f-be10-468768831d42"
+                                        }
+                                    }
+                                ]
+                            },
+                            "replyTo": 1722246732532
+                        },
+                        "from": "0c2d023d-20e3-4cdf-8969-a6067bf38093",
+                        "text": "проблема в том, что если забирать не со всего поля, то это очень слабая карта"
+                    },
+                    "1722309696386": {
+                        "id": "25ba5a42-072d-408a-83a4-50bf76b6a0ec",
+                        "timestamp": 1722309696386,
+                        "dataType": "ChatMessage",
+                        "from": "0c2d023d-20e3-4cdf-8969-a6067bf38093",
+                        "text": "здесь формулировка именно со всего поля"
+                    },
+                    "1722309734716": {
+                        "id": "d0641a1f-69ee-45af-9010-f27da70252e3",
+                        "timestamp": 1722309734716,
+                        "dataType": "ChatMessage",
+                        "from": "0c2d023d-20e3-4cdf-8969-a6067bf38093",
+                        "text": "я думаю её надо править"
+                    },
+                    "1722309828785": {
+                        "id": "b0dd2cab-b4ae-4dbc-92b5-7990e9d2d87e",
+                        "timestamp": 1722309828785,
+                        "dataType": "ChatMessage",
+                        "from": "0c2d023d-20e3-4cdf-8969-a6067bf38093",
+                        "text": "ибо чтобы перебить стандартное действие, нужно чтобы на всем поле было минимум 3 жетона тренда, для того, чтобы перебить 2st нужно минимум 6 жетонов тренда, (а с учетом бонуса первого игрока и возможном жетоне тренда на поле 1, то вообще их должно быть > 8)"
+                    },
+                    "1722313911644": {
+                        "id": "b09c4c6f-8e0f-47c0-a96e-70cfb12246e8",
+                        "timestamp": 1722313911644,
+                        "dataType": "ChatMessage",
+                        "properties": {
+                            "params": {
+                                "chunks": [
+                                    {
+                                        "type": "user",
+                                        "replacement": "test123",
+                                        "data": {
+                                            "userId": "0c2d023d-20e3-4cdf-8969-a6067bf38093"
+                                        }
+                                    }
+                                ]
+                            },
+                            "replyTo": 1722309828785
+                        },
+                        "from": "fc0ea4d2-d4b8-4c0f-be10-468768831d42",
+                        "text": "ну а если забирать с всего поля, то будет так, как я говорил выше"
+                    },
+                    "1722314947801": {
+                        "id": "6ec1e026-5bbe-4418-b0bf-5018716f204d",
+                        "timestamp": 1722314947801,
+                        "dataType": "ChatMessage",
+                        "properties": {
+                            "replyTo": 1722313911644,
+                            "params": {
+                                "chunks": [
+                                    {
+                                        "type": "user",
+                                        "replacement": "test123",
+                                        "data": {
+                                            "userId": "fc0ea4d2-d4b8-4c0f-be10-468768831d42"
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        "from": "0c2d023d-20e3-4cdf-8969-a6067bf38093",
+                        "text": "Но и карт в игре таких всего 2"
+                    },
+                    "1722315043711": {
+                        "id": "be78d879-51e0-471e-8a8a-16f9de8408c9",
+                        "timestamp": 1722315043711,
+                        "dataType": "ChatMessage",
+                        "properties": {
+                            "params": {
+                                "chunks": [
+                                    {
+                                        "type": "user",
+                                        "replacement": "test123",
+                                        "data": {
+                                            "userId": "0c2d023d-20e3-4cdf-8969-a6067bf38093"
+                                        }
+                                    }
+                                ]
+                            },
+                            "replyTo": 1722314947801
+                        },
+                        "from": "fc0ea4d2-d4b8-4c0f-be10-468768831d42",
+                        "text": "хз, по мне так, такие эффекты не оч, просто геймплей урезают да и всё\nмб давать просто популярность за каждый оставшийся жетон трендов на всех полях"
+                    },
+                    "1722315359715": {
+                        "id": "eaa5793e-6525-4004-a46c-0b6ba7e932f0",
+                        "timestamp": 1722315359715,
+                        "dataType": "ChatMessage",
+                        "from": "0c2d023d-20e3-4cdf-8969-a6067bf38093",
+                        "text": "как вариант, кстати"
+                    },
+                    "1722315364329": {
+                        "id": "55c66086-eef8-4ef9-8f2f-ff0f07378fd0",
+                        "timestamp": 1722315364329,
+                        "dataType": "ChatMessage",
+                        "from": "0c2d023d-20e3-4cdf-8969-a6067bf38093",
+                        "text": "нормально"
+                    }
+                },
+                "lastSeenMessages": {
+                    "01389292-d0a4-480e-8db6-ae929109e01e": 1722246732532,
+                    "fc0ea4d2-d4b8-4c0f-be10-468768831d42": 1722315364329,
+                    "0c2d023d-20e3-4cdf-8969-a6067bf38093": 1722315364329
+                }
+            },
+            "stickers": {
+                "0fb4e2ac-df62-43f5-b381-11674465f8dc": "1, 2, 3, 4",
+                "4fce20d2-24d0-4be0-b0df-0736750da030": "2",
+                "5d0ec892-d575-47ed-8ec0-70ebc0f6c006": "1",
+                "d58ac69b-751d-4528-ada2-95ec4d7fc04f": "c25964f22f79",
+                "a062ac05-085c-421f-a259-510477a53ebe": "48eb6ec36a8d",
+                "a3000cc4-d742-450d-bca2-8e6728f74a0b": "2"
+            },
+            "subtasks": []
+        },
+        "fb2b544b-5381-43e1-8064-a40e72b440fa": {
+            "title": "Myqtojhrpz",
+            "timestamp": 1721627808092,
+            "description": "dybYvxiTTt",
+            "data": {
+                "by": "01389292-d0a4-480e-8db6-ae929109e01e",
+                "checklists": [],
+                "createdByTemplateId": "0d0ab003-c7a3-41a2-8077-482a250226b1",
+                "descriptionModifiedAt": 1721976511015
+            },
+            "chat": {
+                "id": "3380cb4b-c005-40d7-8f83-fc84c0a8e402",
+                "timestamp": 1722406346912,
+                "dataType": "Chat",
+                "messages": {},
+                "lastSeenMessages": {}
+            },
+            "stickers": {
+                "0fb4e2ac-df62-43f5-b381-11674465f8dc": "1, 2, 3, 4",
+                "4fce20d2-24d0-4be0-b0df-0736750da030": "2",
+                "5d0ec892-d575-47ed-8ec0-70ebc0f6c006": "0",
+                "d58ac69b-751d-4528-ada2-95ec4d7fc04f": "c25964f22f79",
+                "a062ac05-085c-421f-a259-510477a53ebe": "48eb6ec36a8d",
+                "a3000cc4-d742-450d-bca2-8e6728f74a0b": "1"
+            },
+            "subtasks": []
+        },
+        "0f94c0c6-d8f7-4a17-8664-126f26d17022": {
+            "title": "czOnqoXzSW",
+            "timestamp": 1721627279975,
+            "description": "skXKzaftLf",
+            "data": {
+                "by": "01389292-d0a4-480e-8db6-ae929109e01e",
+                "descriptionModifiedAt": 1722309954146
+            },
+            "chat": {
+                "id": "45de1728-441f-4522-b10c-10734176805b",
+                "timestamp": 1722406346912,
+                "dataType": "Chat",
+                "messages": {},
+                "lastSeenMessages": {}
+            },
+            "stickers": {
+                "4fce20d2-24d0-4be0-b0df-0736750da030": "2",
+                "d58ac69b-751d-4528-ada2-95ec4d7fc04f": "c25964f22f79",
+                "0fb4e2ac-df62-43f5-b381-11674465f8dc": "1",
+                "5d0ec892-d575-47ed-8ec0-70ebc0f6c006": "0",
+                "a3000cc4-d742-450d-bca2-8e6728f74a0b": "1.3",
+                "a062ac05-085c-421f-a259-510477a53ebe": "48eb6ec36a8d"
+            },
+            "subtasks": []
+        },
+        "84731bb6-20aa-4a05-80f7-e5a2d9f75b77": {
+            "title": "idBTudJOIA",
+            "timestamp": 1721626478392,
+            "description": "dKSTwQzUAi",
+            "data": {
+                "by": "01389292-d0a4-480e-8db6-ae929109e01e",
+                "descriptionModifiedAt": 1721976755069,
+                "gtd": {
+                    "state": {
+                        "stage": "new"
+                    },
+                    "history": {
+                        "1721976747669": {
+                            "stage": "done"
+                        },
+                        "1721976748691": {
+                            "stage": "new"
+                        }
+                    }
+                }
+            },
+            "chat": {
+                "id": "65cda4cd-7d38-4adb-8f7e-9d4780a6a074",
+                "timestamp": 1721976748126,
+                "dataType": "Chat",
+                "messages": {
+                    "1721976748126": {
+                        "id": "a1260470-6fc7-4e8c-ae81-2deead4da2a9",
+                        "timestamp": 1721976748126,
+                        "dataType": "ChatMessage",
+                        "properties": {
+                            "fromSystem": true,
+                            "gtd": true,
+                            "actionBy": "0c2d023d-20e3-4cdf-8969-a6067bf38093",
+                            "after": "done"
+                        },
+                        "from": "0000bdc7-0363-4d30-b5d3-5e0fc72f811f",
+                        "text": "."
+                    },
+                    "1721976749148": {
+                        "id": "ee208973-1b8f-486a-9627-be6adc11352d",
+                        "timestamp": 1721976749148,
+                        "dataType": "ChatMessage",
+                        "properties": {
+                            "fromSystem": true,
+                            "gtd": true,
+                            "actionBy": "0c2d023d-20e3-4cdf-8969-a6067bf38093",
+                            "before": "done",
+                            "after": "new"
+                        },
+                        "from": "0000bdc7-0363-4d30-b5d3-5e0fc72f811f",
+                        "text": "."
+                    }
+                },
+                "lastSeenMessages": {
+                    "0000bdc7-0363-4d30-b5d3-5e0fc72f811f": 1721976749148,
+                    "0c2d023d-20e3-4cdf-8969-a6067bf38093": 1721976749148,
+                    "01389292-d0a4-480e-8db6-ae929109e01e": 1721976749148
+                }
+            },
+            "stickers": {
+                "d58ac69b-751d-4528-ada2-95ec4d7fc04f": "c25964f22f79",
+                "4fce20d2-24d0-4be0-b0df-0736750da030": "4",
+                "5d0ec892-d575-47ed-8ec0-70ebc0f6c006": "1",
+                "0fb4e2ac-df62-43f5-b381-11674465f8dc": "1, 2, 3, 4",
+                "a3000cc4-d742-450d-bca2-8e6728f74a0b": "2",
+                "a062ac05-085c-421f-a259-510477a53ebe": "48eb6ec36a8d"
+            },
+            "subtasks": []
+        },
+        "973cf7fb-e9ea-4220-90ae-974f6ca2d56f": {
+            "title": "bPcLNyHQiZ",
+            "timestamp": 1721377984022,
+            "description": "DwfrQIiKEf",
+            "data": {
+                "by": "0c2d023d-20e3-4cdf-8969-a6067bf38093",
+                "checklists": [],
+                "createdByTemplateId": "0d0ab003-c7a3-41a2-8077-482a250226b1",
+                "descriptionModifiedAt": 1721978335547
+            },
+            "chat": {
+                "id": "1903071b-5392-4009-9ccb-0669b48143c5",
+                "timestamp": 1722406346908,
+                "dataType": "Chat",
+                "messages": {},
+                "lastSeenMessages": {}
+            },
+            "stickers": {
+                "4fce20d2-24d0-4be0-b0df-0736750da030": "2",
+                "5d0ec892-d575-47ed-8ec0-70ebc0f6c006": "1",
+                "0fb4e2ac-df62-43f5-b381-11674465f8dc": "2",
+                "d58ac69b-751d-4528-ada2-95ec4d7fc04f": "a0540b7d087e",
+                "a062ac05-085c-421f-a259-510477a53ebe": "48eb6ec36a8d",
+                "a3000cc4-d742-450d-bca2-8e6728f74a0b": "2.5"
+            },
+            "subtasks": []
+        },
+        "b2a1d818-9493-4f22-9844-7348c80b039b": {
+            "title": "rSjQpMXcIh",
+            "timestamp": 1721377225015,
+            "description": "OXgTydJFPI",
+            "data": {
+                "by": "0c2d023d-20e3-4cdf-8969-a6067bf38093",
+                "checklists": [],
+                "createdByTemplateId": "0d0ab003-c7a3-41a2-8077-482a250226b1",
+                "descriptionModifiedAt": 1721978380537
+            },
+            "chat": {
+                "id": "0f8f33b3-0f71-4ac2-b1a2-880ae3eceff4",
+                "timestamp": 1722406346908,
+                "dataType": "Chat",
+                "messages": {},
+                "lastSeenMessages": {}
+            },
+            "stickers": {
+                "4fce20d2-24d0-4be0-b0df-0736750da030": "2",
+                "5d0ec892-d575-47ed-8ec0-70ebc0f6c006": "1",
+                "0fb4e2ac-df62-43f5-b381-11674465f8dc": "2",
+                "d58ac69b-751d-4528-ada2-95ec4d7fc04f": "a0540b7d087e",
+                "a3000cc4-d742-450d-bca2-8e6728f74a0b": "2.7",
+                "a062ac05-085c-421f-a259-510477a53ebe": "48eb6ec36a8d"
+            },
+            "subtasks": []
+        },
+        "59375568-c950-4b55-b886-c0b1370a3844": {
+            "title": "WkhFTZIkmW",
+            "timestamp": 1721375379351,
+            "description": "CrMNSStikT",
+            "data": {
+                "by": "0c2d023d-20e3-4cdf-8969-a6067bf38093",
+                "checklists": [],
+                "createdByTemplateId": "0d0ab003-c7a3-41a2-8077-482a250226b1",
+                "descriptionModifiedAt": 1721978397947
+            },
+            "chat": {
+                "id": "b68af81b-0d2a-4068-ae7b-f003080e927e",
+                "timestamp": 1722406346907,
+                "dataType": "Chat",
+                "messages": {},
+                "lastSeenMessages": {}
+            },
+            "stickers": {
+                "4fce20d2-24d0-4be0-b0df-0736750da030": "2",
+                "5d0ec892-d575-47ed-8ec0-70ebc0f6c006": "1",
+                "0fb4e2ac-df62-43f5-b381-11674465f8dc": "2",
+                "d58ac69b-751d-4528-ada2-95ec4d7fc04f": "a0540b7d087e",
+                "a062ac05-085c-421f-a259-510477a53ebe": "48eb6ec36a8d",
+                "a3000cc4-d742-450d-bca2-8e6728f74a0b": "2.5"
+            },
+            "subtasks": []
+        },
+        "ca5f7e50-88db-4716-b0ac-f606b0e33115": {
+            "title": "BTQrFyKlda",
+            "timestamp": 1721374329345,
+            "description": "bCBkGcBMkL",
+            "data": {
+                "by": "0c2d023d-20e3-4cdf-8969-a6067bf38093",
+                "checklists": [],
+                "createdByTemplateId": "0d0ab003-c7a3-41a2-8077-482a250226b1",
+                "descriptionModifiedAt": 1721978459010
+            },
+            "chat": {
+                "id": "a9a505e0-af0a-4211-b68b-c0cb610f0d0d",
+                "timestamp": 1722406346907,
+                "dataType": "Chat",
+                "messages": {},
+                "lastSeenMessages": {}
+            },
+            "stickers": {
+                "4fce20d2-24d0-4be0-b0df-0736750da030": "4",
+                "0fb4e2ac-df62-43f5-b381-11674465f8dc": "1, 2",
+                "5d0ec892-d575-47ed-8ec0-70ebc0f6c006": "1",
+                "d58ac69b-751d-4528-ada2-95ec4d7fc04f": "a0540b7d087e",
+                "a3000cc4-d742-450d-bca2-8e6728f74a0b": "2.5",
+                "a062ac05-085c-421f-a259-510477a53ebe": "48eb6ec36a8d"
+            },
+            "subtasks": []
+        },
+        "74ab3006-71e0-4e76-af03-029cb75d342d": {
+            "title": "zOVLZzIhyR",
+            "timestamp": 1721374267992,
+            "description": "bcUcokgUZK",
+            "data": {
+                "by": "0c2d023d-20e3-4cdf-8969-a6067bf38093",
+                "checklists": [],
+                "createdByTemplateId": "0d0ab003-c7a3-41a2-8077-482a250226b1",
+                "descriptionModifiedAt": 1721978497286,
+                "assignTime": 1721378486057,
+                "assignedBy": {
+                    "0c2d023d-20e3-4cdf-8969-a6067bf38093": 1721378486056
+                }
+            },
+            "chat": {
+                "id": "86c3bdd5-a776-45de-a5e5-bc391eaef6b0",
+                "timestamp": 1721378493483,
+                "dataType": "Chat",
+                "messages": {
+                    "1721378493483": {
+                        "id": "efc037f2-6260-4343-87cd-e039760400d4",
+                        "timestamp": 1721378493483,
+                        "dataType": "ChatMessage",
+                        "properties": {
+                            "fromSystem": true,
+                            "actionBy": "0c2d023d-20e3-4cdf-8969-a6067bf38093",
+                            "assigned": "0c2d023d-20e3-4cdf-8969-a6067bf38093"
+                        },
+                        "from": "0000bdc7-0363-4d30-b5d3-5e0fc72f811f",
+                        "text": "."
+                    }
+                },
+                "lastSeenMessages": {
+                    "0000bdc7-0363-4d30-b5d3-5e0fc72f811f": 1721378493483,
+                    "0c2d023d-20e3-4cdf-8969-a6067bf38093": 1721378493483,
+                    "fc0ea4d2-d4b8-4c0f-be10-468768831d42": 1721378493483,
+                    "01389292-d0a4-480e-8db6-ae929109e01e": 1721378493483
+                }
+            },
+            "stickers": {
+                "4fce20d2-24d0-4be0-b0df-0736750da030": "2",
+                "0fb4e2ac-df62-43f5-b381-11674465f8dc": "1",
+                "5d0ec892-d575-47ed-8ec0-70ebc0f6c006": "1",
+                "d58ac69b-751d-4528-ada2-95ec4d7fc04f": "a0540b7d087e",
+                "a3000cc4-d742-450d-bca2-8e6728f74a0b": "2.5",
+                "a062ac05-085c-421f-a259-510477a53ebe": "48eb6ec36a8d"
+            },
+            "subtasks": []
+        },
+        "aa80d77d-9cf4-46af-956d-d46cf81c7476": {
+            "title": "EVTdVvOnFD",
+            "timestamp": 1721371619578,
+            "description": "PvpgblHkki",
+            "data": {
+                "by": "0c2d023d-20e3-4cdf-8969-a6067bf38093",
+                "checklists": [],
+                "createdByTemplateId": "0d0ab003-c7a3-41a2-8077-482a250226b1",
+                "descriptionModifiedAt": 1721978602618
+            },
+            "chat": {
+                "id": "ee68a226-732e-4163-bcdc-4a900eaaff5c",
+                "timestamp": 1722406346907,
+                "dataType": "Chat",
+                "messages": {},
+                "lastSeenMessages": {}
+            },
+            "stickers": {
+                "0fb4e2ac-df62-43f5-b381-11674465f8dc": "1",
+                "4fce20d2-24d0-4be0-b0df-0736750da030": "2",
+                "5d0ec892-d575-47ed-8ec0-70ebc0f6c006": "1",
+                "d58ac69b-751d-4528-ada2-95ec4d7fc04f": "a0540b7d087e",
+                "a062ac05-085c-421f-a259-510477a53ebe": "48eb6ec36a8d",
+                "a3000cc4-d742-450d-bca2-8e6728f74a0b": "2.6"
+            },
+            "subtasks": []
+        },
+        "56cd3baf-38e4-416a-8f50-dc84b1fe1c74": {
+            "title": "flbMVlhJIn",
+            "timestamp": 1722328415475,
+            "description": "wiZyTTKWiH",
+            "data": {
+                "by": "0c2d023d-20e3-4cdf-8969-a6067bf38093",
+                "descriptionModifiedAt": 1722328433904
+            },
+            "chat": {
+                "id": "feb6769b-fd10-4196-9610-83599930ef3a",
+                "timestamp": 1722406346916,
+                "dataType": "Chat",
+                "messages": {},
+                "lastSeenMessages": {}
+            },
+            "stickers": {
+                "a3000cc4-d742-450d-bca2-8e6728f74a0b": "0.5",
+                "a062ac05-085c-421f-a259-510477a53ebe": "48eb6ec36a8d",
+                "d58ac69b-751d-4528-ada2-95ec4d7fc04f": "c25964f22f79",
+                "4fce20d2-24d0-4be0-b0df-0736750da030": "2"
+            },
+            "subtasks": []
+        },
+        "78e84c8c-9620-4d62-8b33-49b28ce402a0": {
+            "title": "mJqUkKsaqK",
+            "timestamp": 1722328395884,
+            "description": "RXNnnFNCcU",
+            "data": {
+                "by": "0c2d023d-20e3-4cdf-8969-a6067bf38093",
+                "descriptionModifiedAt": 1722328418949
+            },
+            "chat": {
+                "id": "a0cd29ee-8c05-4795-b1d2-d7c253553d49",
+                "timestamp": 1722406346916,
+                "dataType": "Chat",
+                "messages": {},
+                "lastSeenMessages": {}
+            },
+            "stickers": {
+                "a3000cc4-d742-450d-bca2-8e6728f74a0b": "0.5",
+                "a062ac05-085c-421f-a259-510477a53ebe": "48eb6ec36a8d",
+                "d58ac69b-751d-4528-ada2-95ec4d7fc04f": "c25964f22f79",
+                "4fce20d2-24d0-4be0-b0df-0736750da030": "2"
+            },
+            "subtasks": []
+        },
+        "42314e8a-03d9-4334-9cab-6d08e5ae763f": {
+            "title": "VEsgjaDDOg",
+            "timestamp": 1722328272225,
+            "description": "HECEItAoNS",
+            "data": {
+                "by": "0c2d023d-20e3-4cdf-8969-a6067bf38093",
+                "descriptionModifiedAt": 1722328357231
+            },
+            "chat": {
+                "id": "9041f1fd-b0c5-46a0-b421-b6c23d767b3c",
+                "timestamp": 1722406346916,
+                "dataType": "Chat",
+                "messages": {},
+                "lastSeenMessages": {}
+            },
+            "stickers": {
+                "a3000cc4-d742-450d-bca2-8e6728f74a0b": "0.5",
+                "a062ac05-085c-421f-a259-510477a53ebe": "48eb6ec36a8d",
+                "d58ac69b-751d-4528-ada2-95ec4d7fc04f": "c25964f22f79",
+                "4fce20d2-24d0-4be0-b0df-0736750da030": "2"
+            },
+            "subtasks": []
+        },
+        "0d41144f-f8b0-4304-a708-58d625a0a756": {
+            "title": "PbziSOtABG",
+            "timestamp": 1722248934270,
+            "description": "eUtbDbQCgc",
+            "data": {
+                "by": "01389292-d0a4-480e-8db6-ae929109e01e",
+                "checklists": [],
+                "createdByTemplateId": "2fd31a6f-62a3-45e0-afe0-caa175e139e5",
+                "descriptionModifiedAt": 1722314253532
+            },
+            "chat": {
+                "id": "47d3a19e-7674-43c0-b1c9-650b987330b8",
+                "timestamp": 1722252658027,
+                "dataType": "Chat",
+                "messages": {
+                    "1722253089456": {
+                        "id": "cafc3843-3190-4049-8062-57a0066e82d9",
+                        "timestamp": 1722253089456,
+                        "dataType": "ChatMessage",
+                        "from": "fc0ea4d2-d4b8-4c0f-be10-468768831d42",
+                        "text": "Первый ход?"
+                    },
+                    "1722253094484": {
+                        "id": "104dd9bd-af4e-4e55-b156-ab947083b6e5",
+                        "timestamp": 1722253094484,
+                        "dataType": "ChatMessage",
+                        "from": "fc0ea4d2-d4b8-4c0f-be10-468768831d42",
+                        "text": "а понял"
+                    }
+                },
+                "lastSeenMessages": {
+                    "fc0ea4d2-d4b8-4c0f-be10-468768831d42": 1722253094484,
+                    "01389292-d0a4-480e-8db6-ae929109e01e": 1722253094484
+                }
+            },
+            "stickers": {
+                "d58ac69b-751d-4528-ada2-95ec4d7fc04f": "c25964f22f79",
+                "a062ac05-085c-421f-a259-510477a53ebe": "48eb6ec36a8d",
+                "a3000cc4-d742-450d-bca2-8e6728f74a0b": "0.5",
+                "4fce20d2-24d0-4be0-b0df-0736750da030": "3"
+            },
+            "subtasks": []
+        },
+        "b0b1608c-0118-4359-b054-c6acd8cbea7f": {
+            "title": "YMBZIORdSJ",
+            "timestamp": 1722242746131,
+            "description": "wkQAbccFDm",
+            "data": {
+                "by": "0c2d023d-20e3-4cdf-8969-a6067bf38093",
+                "descriptionModifiedAt": 1722242758433
+            },
+            "chat": {
+                "id": "dae8c852-c99e-4e10-a35a-5d675054ed0c",
+                "timestamp": 1722406346914,
+                "dataType": "Chat",
+                "messages": {},
+                "lastSeenMessages": {}
+            },
+            "stickers": {
+                "a3000cc4-d742-450d-bca2-8e6728f74a0b": "0.5",
+                "a062ac05-085c-421f-a259-510477a53ebe": "48eb6ec36a8d",
+                "4fce20d2-24d0-4be0-b0df-0736750da030": "3",
+                "d58ac69b-751d-4528-ada2-95ec4d7fc04f": "a0540b7d087e"
+            },
+            "subtasks": []
+        },
+        "4101a881-5f67-4835-bd08-69e61e036316": {
+            "title": "xTSQCgZQpm",
+            "timestamp": 1721662682881,
+            "description": "AtJxPfqqxg",
+            "data": {
+                "by": "fc0ea4d2-d4b8-4c0f-be10-468768831d42",
+                "descriptionModifiedAt": 1721662780214
+            },
+            "chat": {
+                "id": "6b8420d1-74a5-40c6-add0-4f371090375d",
+                "timestamp": 1722406346910,
+                "dataType": "Chat",
+                "messages": {},
+                "lastSeenMessages": {}
+            },
+            "stickers": {
+                "d58ac69b-751d-4528-ada2-95ec4d7fc04f": "400ccd355f6e",
+                "4fce20d2-24d0-4be0-b0df-0736750da030": "2"
+            },
+            "subtasks": []
+        },
+        "f1be3b89-01b2-499c-91ff-b5f1c07473ff": {
+            "title": "hXDCJXTqUd",
+            "timestamp": 1721660568964,
+            "description": "kFihKkhdyP",
+            "data": {
+                "by": "fc0ea4d2-d4b8-4c0f-be10-468768831d42",
+                "descriptionModifiedAt": 1722246524319
+            },
+            "chat": {
+                "id": "b3a546ef-a3c3-4472-aff6-325a5049b09d",
+                "timestamp": 1722406346909,
+                "dataType": "Chat",
+                "messages": {},
+                "lastSeenMessages": {}
+            },
+            "stickers": {
+                "d58ac69b-751d-4528-ada2-95ec4d7fc04f": "400ccd355f6e",
+                "4fce20d2-24d0-4be0-b0df-0736750da030": "3"
+            },
+            "subtasks": []
+        },
+        "929c723c-2784-4760-9bf5-a32afa1117be": {
+            "title": "qdRstborwx",
+            "timestamp": 1721650969459,
+            "description": "gmViOMsrur",
+            "data": {
+                "by": "0c2d023d-20e3-4cdf-8969-a6067bf38093"
+            },
+            "chat": {
+                "id": "3a6ce903-cce0-43e2-8962-962355b75822",
+                "timestamp": 1722406346909,
+                "dataType": "Chat",
+                "messages": {},
+                "lastSeenMessages": {}
+            },
+            "stickers": {
+                "d58ac69b-751d-4528-ada2-95ec4d7fc04f": "a0540b7d087e",
+                "4fce20d2-24d0-4be0-b0df-0736750da030": "4"
+            },
+            "subtasks": []
+        },
+        "df028b48-0bb7-490c-ab5f-c91038ed89e0": {
+            "title": "UGcuAkXqaR",
+            "timestamp": 1721628934709,
+            "description": "KljamMtKsw",
+            "data": {
+                "by": "01389292-d0a4-480e-8db6-ae929109e01e",
+                "descriptionModifiedAt": 1721628992118
+            },
+            "chat": {
+                "id": "ca146f46-14cc-4769-9fd7-c23fd1062526",
+                "timestamp": 1721656619239,
+                "dataType": "Chat",
+                "messages": {
+                    "1721659599652": {
+                        "id": "e80b9d13-decc-4f11-af8e-46e8f9173e34",
+                        "timestamp": 1721659599652,
+                        "dataType": "ChatMessage",
+                        "from": "fc0ea4d2-d4b8-4c0f-be10-468768831d42",
+                        "text": "Постпродакшн"
+                    },
+                    "1721661788501": {
+                        "id": "2cce0478-6c99-4fbe-a3f5-5388c64ba08a",
+                        "timestamp": 1721661788501,
+                        "dataType": "ChatMessage",
+                        "from": "fc0ea4d2-d4b8-4c0f-be10-468768831d42",
+                        "text": "о"
+                    },
+                    "1721661796278": {
+                        "id": "bce11217-10ac-48ef-bb0c-99b7329d7b2f",
+                        "timestamp": 1721661796278,
+                        "dataType": "ChatMessage",
+                        "from": "fc0ea4d2-d4b8-4c0f-be10-468768831d42",
+                        "text": "Переобувание"
+                    }
+                },
+                "lastSeenMessages": {
+                    "fc0ea4d2-d4b8-4c0f-be10-468768831d42": 1721661796278,
+                    "01389292-d0a4-480e-8db6-ae929109e01e": 1721661796278
+                }
+            },
+            "stickers": {
+                "d58ac69b-751d-4528-ada2-95ec4d7fc04f": "c25964f22f79",
+                "4fce20d2-24d0-4be0-b0df-0736750da030": "2"
+            },
+            "subtasks": []
+        },
+        "b3313170-89b0-4d66-aab1-ff31068282eb": {
+            "title": "RtjyAhkvYO",
+            "timestamp": 1721625550883,
+            "description": "rSGzVlRShP",
+            "data": {
+                "by": "0c2d023d-20e3-4cdf-8969-a6067bf38093",
+                "descriptionModifiedAt": 1722257587752,
+                "assignTime": 1721658761227,
+                "assignedBy": {
+                    "fc0ea4d2-d4b8-4c0f-be10-468768831d42": 1721658761228
+                },
+                "gtd": {
+                    "state": {
+                        "stage": "new"
+                    },
+                    "history": {
+                        "1721693048327": {
+                            "stage": "done"
+                        },
+                        "1721693053276": {
+                            "stage": "new"
+                        }
+                    }
+                }
+            },
+            "chat": {
+                "id": "25c277d9-1be8-4381-8128-caae4408161e",
+                "timestamp": 1721656619239,
+                "dataType": "Chat",
+                "messages": {
+                    "1721661866185": {
+                        "id": "39d950b1-86b4-4cef-a208-ce517139a5ca",
+                        "timestamp": 1721661866185,
+                        "dataType": "ChatMessage",
+                        "from": "fc0ea4d2-d4b8-4c0f-be10-468768831d42",
+                        "text": "Выглядит скорее как \"Вынос на публику\""
+                    },
+                    "1721661890802": {
+                        "id": "c773696a-d23d-4343-90d5-95ab88849069",
+                        "timestamp": 1721661890802,
+                        "dataType": "ChatMessage",
+                        "from": "fc0ea4d2-d4b8-4c0f-be10-468768831d42",
+                        "text": "типа, вас обьебали, но ты распиарил этот случай и заработал подписоты"
+                    },
+                    "1721693048769": {
+                        "id": "08fd1fe5-d6f1-4a10-b480-cad2007794bb",
+                        "timestamp": 1721693048769,
+                        "dataType": "ChatMessage",
+                        "properties": {
+                            "fromSystem": true,
+                            "gtd": true,
+                            "actionBy": "0c2d023d-20e3-4cdf-8969-a6067bf38093",
+                            "after": "done"
+                        },
+                        "from": "0000bdc7-0363-4d30-b5d3-5e0fc72f811f",
+                        "text": "."
+                    },
+                    "1721693053721": {
+                        "id": "2f8394d0-7fe2-46eb-8200-5a7dda6de8c0",
+                        "timestamp": 1721693053721,
+                        "dataType": "ChatMessage",
+                        "properties": {
+                            "fromSystem": true,
+                            "gtd": true,
+                            "actionBy": "0c2d023d-20e3-4cdf-8969-a6067bf38093",
+                            "before": "done",
+                            "after": "new"
+                        },
+                        "from": "0000bdc7-0363-4d30-b5d3-5e0fc72f811f",
+                        "text": "."
+                    },
+                    "1722246035144": {
+                        "id": "bc3dde2f-a129-45e3-b11a-f380e03e38c9",
+                        "timestamp": 1722246035144,
+                        "dataType": "ChatMessage",
+                        "from": "fc0ea4d2-d4b8-4c0f-be10-468768831d42",
+                        "text": "Переименовал более красиво"
+                    }
+                },
+                "lastSeenMessages": {
+                    "fc0ea4d2-d4b8-4c0f-be10-468768831d42": 1722246035144,
+                    "0c2d023d-20e3-4cdf-8969-a6067bf38093": 1722246035144,
+                    "0000bdc7-0363-4d30-b5d3-5e0fc72f811f": 1721693053721,
+                    "3937bf97-7b6d-4853-b1af-3d771a4c0c35": 1721693053721,
+                    "01389292-d0a4-480e-8db6-ae929109e01e": 1722246035144
+                }
+            },
+            "stickers": {
+                "4fce20d2-24d0-4be0-b0df-0736750da030": "3",
+                "d58ac69b-751d-4528-ada2-95ec4d7fc04f": "a0540b7d087e"
+            },
+            "subtasks": []
+        },
+        "0ba6f02f-8635-45b4-8b8e-3a49b6c24828": {
+            "title": "RgUnIYvYpo",
+            "timestamp": 1721625456843,
+            "description": "AaliVzKHTo",
+            "data": {
+                "by": "0c2d023d-20e3-4cdf-8969-a6067bf38093",
+                "descriptionModifiedAt": 1722257675271
+            },
+            "chat": {
+                "id": "2c0cd9c5-e1d1-400b-9971-ab102d8708a7",
+                "timestamp": 1722406346909,
+                "dataType": "Chat",
+                "messages": {},
+                "lastSeenMessages": {}
+            },
+            "stickers": {
+                "4fce20d2-24d0-4be0-b0df-0736750da030": "3",
+                "d58ac69b-751d-4528-ada2-95ec4d7fc04f": "a0540b7d087e"
+            },
+            "subtasks": []
+        },
+        "9ab25798-a470-460e-aff4-796df675242f": {
+            "title": "yfiisAVzPC",
+            "timestamp": 1721624270939,
+            "description": "InAoGeuvtS",
+            "data": {
+                "by": "0c2d023d-20e3-4cdf-8969-a6067bf38093",
+                "descriptionModifiedAt": 1721624335068
+            },
+            "chat": {
+                "id": "c64d20b9-8229-4011-a493-2fe967d0a757",
+                "timestamp": 1722245495286,
+                "dataType": "Chat",
+                "messages": {
+                    "1722246150771": {
+                        "id": "ab8f16d4-9096-4b93-8f03-4804929f7328",
+                        "timestamp": 1722246150771,
+                        "dataType": "ChatMessage",
+                        "from": "fc0ea4d2-d4b8-4c0f-be10-468768831d42",
+                        "text": "Предполагается, что все карты защиты работают перед эффектом самого события. Предлагаю стандартизировать такие эффекты как\n1-2 -> Х\n3-5 -> Х\n6 -> супер х\nи т.п"
+                    },
+                    "1722246524416": {
+                        "id": "86e79083-a230-4984-bd06-d86bc0d1134f",
+                        "timestamp": 1722246524416,
+                        "dataType": "ChatMessage",
+                        "from": "01389292-d0a4-480e-8db6-ae929109e01e",
+                        "text": "Предлагаешь сдвинуть негативный эффект на 1-2?"
+                    },
+                    "1722246548324": {
+                        "id": "2a94b8b0-f598-487f-a352-1acd77f447fa",
+                        "timestamp": 1722246548324,
+                        "dataType": "ChatMessage",
+                        "properties": {
+                            "params": {
+                                "chunks": [
+                                    {
+                                        "type": "user",
+                                        "replacement": "test123",
+                                        "data": {
+                                            "userId": "01389292-d0a4-480e-8db6-ae929109e01e"
+                                        }
+                                    }
+                                ]
+                            },
+                            "replyTo": 1722246524416
+                        },
+                        "from": "fc0ea4d2-d4b8-4c0f-be10-468768831d42",
+                        "text": "нене, чисто по оформлению"
+                    }
+                },
+                "lastSeenMessages": {
+                    "fc0ea4d2-d4b8-4c0f-be10-468768831d42": 1722246548324,
+                    "01389292-d0a4-480e-8db6-ae929109e01e": 1722246548324,
+                    "0c2d023d-20e3-4cdf-8969-a6067bf38093": 1722246548324
+                }
+            },
+            "stickers": {
+                "4fce20d2-24d0-4be0-b0df-0736750da030": "2",
+                "d58ac69b-751d-4528-ada2-95ec4d7fc04f": "a0540b7d087e"
+            },
+            "subtasks": []
+        },
+        "3b4ca890-71b5-4c6e-bb61-e2b5ad7f6d7f": {
+            "title": "CPiOAuiAaF",
+            "timestamp": 1721561795773,
+            "description": "pGfKKBhUoM",
+            "data": {
+                "by": "fc0ea4d2-d4b8-4c0f-be10-468768831d42",
+                "descriptionModifiedAt": 1721664346354
+            },
+            "chat": {
+                "id": "17950951-3b9e-45f2-ab1d-6a6580003402",
+                "timestamp": 1722406346908,
+                "dataType": "Chat",
+                "messages": {},
+                "lastSeenMessages": {}
+            },
+            "stickers": {
+                "d58ac69b-751d-4528-ada2-95ec4d7fc04f": "400ccd355f6e",
+                "4fce20d2-24d0-4be0-b0df-0736750da030": "4"
+            },
+            "subtasks": []
+        },
+        "fb957a5f-34a3-4704-affc-0c28a55ec238": {
+            "title": "qeSIGYAVbR",
+            "timestamp": 1722258920531,
+            "description": "ASJuuKIkzF",
+            "data": {
+                "by": "fc0ea4d2-d4b8-4c0f-be10-468768831d42",
+                "descriptionModifiedAt": 1722316105999
+            },
+            "chat": {
+                "id": "39b06076-be04-4868-b03e-2398e854231e",
+                "timestamp": 1722406346916,
+                "dataType": "Chat",
+                "messages": {},
+                "lastSeenMessages": {}
+            },
+            "stickers": {
+                "71124bc6-aa7c-4b9f-9f03-5d006a309350": "bf01d6422d0a",
+                "4f9af8d0-23fe-495f-8138-94be62c8574f": "1b018cc4c06e",
+                "d58ac69b-751d-4528-ada2-95ec4d7fc04f": "400ccd355f6e",
+                "4fce20d2-24d0-4be0-b0df-0736750da030": "2",
+                "a3000cc4-d742-450d-bca2-8e6728f74a0b": "-2",
+                "a062ac05-085c-421f-a259-510477a53ebe": "48eb6ec36a8d"
+            },
+            "subtasks": []
+        },
+        "35a7142f-3b10-4330-9854-6c0cfbf002e0": {
+            "title": "FunbukpvkW",
+            "timestamp": 1722258649564,
+            "description": "phvrRmwuAG",
+            "data": {
+                "by": "fc0ea4d2-d4b8-4c0f-be10-468768831d42",
+                "descriptionModifiedAt": 1722258748824
+            },
+            "chat": {
+                "id": "8203378f-c0bb-49c0-a408-542b3e46ff3e",
+                "timestamp": 1722406346916,
+                "dataType": "Chat",
+                "messages": {},
+                "lastSeenMessages": {}
+            },
+            "stickers": {
+                "71124bc6-aa7c-4b9f-9f03-5d006a309350": "bf01d6422d0a",
+                "4f9af8d0-23fe-495f-8138-94be62c8574f": "1b018cc4c06e",
+                "d58ac69b-751d-4528-ada2-95ec4d7fc04f": "400ccd355f6e",
+                "a062ac05-085c-421f-a259-510477a53ebe": "48eb6ec36a8d",
+                "a3000cc4-d742-450d-bca2-8e6728f74a0b": "-2"
+            },
+            "subtasks": []
+        },
+        "5ecd6b2f-c652-488c-aea3-63f774d50280": {
+            "title": "VZznygjwoE",
+            "timestamp": 1722258361009,
+            "description": "CKgWsqIaCv",
+            "data": {
+                "by": "fc0ea4d2-d4b8-4c0f-be10-468768831d42",
+                "descriptionModifiedAt": 1722328514353
+            },
+            "chat": {
+                "id": "2c4fe722-00cf-4700-b5d9-0387d400a65b",
+                "timestamp": 1722298692700,
+                "dataType": "Chat",
+                "messages": {
+                    "1722328567701": {
+                        "id": "00ca2e48-056e-4108-a197-508ebf540070",
+                        "timestamp": 1722328567701,
+                        "dataType": "ChatMessage",
+                        "from": "0c2d023d-20e3-4cdf-8969-a6067bf38093",
+                        "text": "обычно по 1-2 жетона на поле, соответственно за 1 жетон -4, за 2 жетона -8. В среднем -6"
+                    }
+                },
+                "lastSeenMessages": {
+                    "0c2d023d-20e3-4cdf-8969-a6067bf38093": 1722328567701,
+                    "fc0ea4d2-d4b8-4c0f-be10-468768831d42": 1722328567701
+                }
+            },
+            "stickers": {
+                "4f9af8d0-23fe-495f-8138-94be62c8574f": "1b018cc4c06e",
+                "71124bc6-aa7c-4b9f-9f03-5d006a309350": "bf01d6422d0a",
+                "d58ac69b-751d-4528-ada2-95ec4d7fc04f": "400ccd355f6e",
+                "4fce20d2-24d0-4be0-b0df-0736750da030": "2",
+                "a3000cc4-d742-450d-bca2-8e6728f74a0b": "-2",
+                "a062ac05-085c-421f-a259-510477a53ebe": "734e94e76817"
+            },
+            "subtasks": []
+        },
+        "92d0d86f-28c5-4488-9e39-e2cd3df3045a": {
+            "title": "QgqPyhmsmm",
+            "timestamp": 1722258131202,
+            "description": "bhOPmjlqgC",
+            "data": {
+                "by": "fc0ea4d2-d4b8-4c0f-be10-468768831d42",
+                "descriptionModifiedAt": 1722329012622
+            },
+            "chat": {
+                "id": "5ebb067e-0c15-4b9f-bbe7-b3767494ccb4",
+                "timestamp": 1722406346915,
+                "dataType": "Chat",
+                "messages": {},
+                "lastSeenMessages": {}
+            },
+            "stickers": {
+                "71124bc6-aa7c-4b9f-9f03-5d006a309350": "bf01d6422d0a",
+                "d58ac69b-751d-4528-ada2-95ec4d7fc04f": "400ccd355f6e",
+                "4f9af8d0-23fe-495f-8138-94be62c8574f": "1b018cc4c06e",
+                "a3000cc4-d742-450d-bca2-8e6728f74a0b": "-2",
+                "a062ac05-085c-421f-a259-510477a53ebe": "734e94e76817"
+            },
+            "subtasks": []
+        },
+        "990f38b3-7761-44cd-ae04-71242c303ec0": {
+            "title": "QDmfpuoBut",
+            "timestamp": 1722256905382,
+            "description": "WfPuhZMKYg",
+            "data": {
+                "by": "fc0ea4d2-d4b8-4c0f-be10-468768831d42",
+                "descriptionModifiedAt": 1722329160144
+            },
+            "chat": {
+                "id": "2b05f98a-87e5-4c44-86ff-50fcf0d02479",
+                "timestamp": 1722298692700,
+                "dataType": "Chat",
+                "messages": {
+                    "1722329129772": {
+                        "id": "0d53527f-5ecb-40d2-9c7c-ef00ab6c574b",
+                        "timestamp": 1722329129772,
+                        "dataType": "ChatMessage",
+                        "from": "0c2d023d-20e3-4cdf-8969-a6067bf38093",
+                        "text": "Оригинальный эффект:\nПотеряйте 2 POP, 2$ и сбросьте 1 карту защиты."
+                    },
+                    "1722341307850": {
+                        "id": "31ce15fc-e773-4a2f-b251-bd7ea539d5f6",
+                        "timestamp": 1722341307850,
+                        "dataType": "ChatMessage",
+                        "from": "fc0ea4d2-d4b8-4c0f-be10-468768831d42",
+                        "text": "почему не карту защиты?"
+                    },
+                    "1722354820528": {
+                        "id": "03a20627-a013-4a2d-8213-7e09d8d6b27e",
+                        "timestamp": 1722354820528,
+                        "dataType": "ChatMessage",
+                        "properties": {
+                            "replyTo": 0,
+                            "params": {
+                                "chunks": []
+                            }
+                        },
+                        "from": "0c2d023d-20e3-4cdf-8969-a6067bf38093",
+                        "text": "Как будто бессмысленно, высокая вероятность, что карта защиты как раз защитит, и смысла нет в таком действии "
+                    },
+                    "1722355384575": {
+                        "id": "e5b3d103-f6ea-4c22-b821-37f02cdfe0a5",
+                        "timestamp": 1722355384575,
+                        "dataType": "ChatMessage",
+                        "from": "fc0ea4d2-d4b8-4c0f-be10-468768831d42",
+                        "text": "ок"
+                    }
+                },
+                "lastSeenMessages": {
+                    "0c2d023d-20e3-4cdf-8969-a6067bf38093": 1722355384575,
+                    "fc0ea4d2-d4b8-4c0f-be10-468768831d42": 1722355384575
+                }
+            },
+            "stickers": {
+                "4f9af8d0-23fe-495f-8138-94be62c8574f": "6389805fcadf",
+                "71124bc6-aa7c-4b9f-9f03-5d006a309350": "bf01d6422d0a",
+                "d58ac69b-751d-4528-ada2-95ec4d7fc04f": "400ccd355f6e",
+                "4fce20d2-24d0-4be0-b0df-0736750da030": "2",
+                "a062ac05-085c-421f-a259-510477a53ebe": "734e94e76817",
+                "a3000cc4-d742-450d-bca2-8e6728f74a0b": "-2.5"
+            },
+            "subtasks": []
+        },
+        "06c0100c-b2af-44b1-b4e3-4af0edab5377": {
+            "title": "CPKfaCThKH",
+            "timestamp": 1722256744159,
+            "description": "olIOxHHXxa",
+            "data": {
+                "by": "fc0ea4d2-d4b8-4c0f-be10-468768831d42",
+                "descriptionModifiedAt": 1722329670610
+            },
+            "chat": {
+                "id": "95550341-7c9f-4520-a60c-a2cc000a17f6",
+                "timestamp": 1722355361947,
+                "dataType": "Chat",
+                "messages": {
+                    "1722357416166": {
+                        "id": "8806a0f2-ed6b-4066-af89-fa007dde39f5",
+                        "timestamp": 1722357416166,
+                        "dataType": "ChatMessage",
+                        "from": "fc0ea4d2-d4b8-4c0f-be10-468768831d42",
+                        "text": "Я думаю, не обязатеьно делать равноценный выбор всегда. Идея тут в том, что ты скорее потеряешь небольшое количество денег, чем время. однако, если вдруг ты оказался вообще без денег, то последствие более тяжёлое"
+                    }
+                },
+                "lastSeenMessages": {
+                    "fc0ea4d2-d4b8-4c0f-be10-468768831d42": 1722357416166
+                }
+            },
+            "stickers": {
+                "71124bc6-aa7c-4b9f-9f03-5d006a309350": "bf01d6422d0a",
+                "4f9af8d0-23fe-495f-8138-94be62c8574f": "6389805fcadf",
+                "d58ac69b-751d-4528-ada2-95ec4d7fc04f": "400ccd355f6e",
+                "a062ac05-085c-421f-a259-510477a53ebe": "48eb6ec36a8d",
+                "a3000cc4-d742-450d-bca2-8e6728f74a0b": "-3.5"
+            },
+            "subtasks": []
+        },
+        "50e09c52-7299-405a-92e0-ef6582a6f41a": {
+            "title": "yDcTGFVwko",
+            "timestamp": 1722256332371,
+            "description": "QlXTrYFawu",
+            "data": {
+                "by": "fc0ea4d2-d4b8-4c0f-be10-468768831d42",
+                "descriptionModifiedAt": 1722329808319
+            },
+            "chat": {
+                "id": "1a75ee39-e8cc-4283-9d0c-18b8edc3a2a9",
+                "timestamp": 1722355361947,
+                "dataType": "Chat",
+                "messages": {
+                    "1722356720783": {
+                        "id": "05d76d07-7ea0-4c7d-aba2-207e0c21b7b6",
+                        "timestamp": 1722356720783,
+                        "dataType": "ChatMessage",
+                        "from": "fc0ea4d2-d4b8-4c0f-be10-468768831d42",
+                        "text": "Нет карт -> ты защищён от события, зачем эффект раздувать"
+                    }
+                },
+                "lastSeenMessages": {
+                    "fc0ea4d2-d4b8-4c0f-be10-468768831d42": 1722356720783
+                }
+            },
+            "stickers": {
+                "4f9af8d0-23fe-495f-8138-94be62c8574f": "6389805fcadf",
+                "71124bc6-aa7c-4b9f-9f03-5d006a309350": "1a21c489981f",
+                "d58ac69b-751d-4528-ada2-95ec4d7fc04f": "400ccd355f6e",
+                "4fce20d2-24d0-4be0-b0df-0736750da030": "2",
+                "a062ac05-085c-421f-a259-510477a53ebe": "734e94e76817"
+            },
+            "subtasks": []
+        },
+        "07eb2790-1dd5-4256-b2c7-054ae0c55041": {
+            "title": "yZmjTfZtpr",
+            "timestamp": 1722255876748,
+            "description": "DbWLiOLbuL",
+            "data": {
+                "by": "fc0ea4d2-d4b8-4c0f-be10-468768831d42",
+                "descriptionModifiedAt": 1722330043363
+            },
+            "chat": {
+                "id": "f138eaed-332f-4604-8a83-d2cec9e284c5",
+                "timestamp": 1722406346915,
+                "dataType": "Chat",
+                "messages": {},
+                "lastSeenMessages": {}
+            },
+            "stickers": {
+                "4f9af8d0-23fe-495f-8138-94be62c8574f": "6389805fcadf",
+                "71124bc6-aa7c-4b9f-9f03-5d006a309350": "bf01d6422d0a",
+                "d58ac69b-751d-4528-ada2-95ec4d7fc04f": "400ccd355f6e",
+                "a3000cc4-d742-450d-bca2-8e6728f74a0b": "-1",
+                "a062ac05-085c-421f-a259-510477a53ebe": "48eb6ec36a8d"
+            },
+            "subtasks": []
+        },
+        "de19192b-9dea-4472-b84f-679bd1559749": {
+            "title": "mYxncFkGAc",
+            "timestamp": 1721709593913,
+            "description": "uORsLuvOIh",
+            "data": {
+                "by": "3937bf97-7b6d-4853-b1af-3d771a4c0c35",
+                "descriptionModifiedAt": 1721709696940
+            },
+            "chat": {
+                "id": "023cb36b-b58f-4ee9-b2d2-f312a9de9212",
+                "timestamp": 1722242164831,
+                "dataType": "Chat",
+                "messages": {
+                    "1722252579224": {
+                        "id": "357cbdb0-da0b-4252-801d-2be077c68cfb",
+                        "timestamp": 1722252579224,
+                        "dataType": "ChatMessage",
+                        "from": "01389292-d0a4-480e-8db6-ae929109e01e",
+                        "text": "Срач в коментах, потеряйте по 1 популярности за каждый ваш жетон на поле продвижения"
+                    },
+                    "1722252609105": {
+                        "id": "deb25a06-8c84-4945-9d11-8620a68dc1e0",
+                        "timestamp": 1722252609105,
+                        "dataType": "ChatMessage",
+                        "from": "01389292-d0a4-480e-8db6-ae929109e01e",
+                        "text": "0.3ст"
+                    }
+                },
+                "lastSeenMessages": {
+                    "01389292-d0a4-480e-8db6-ae929109e01e": 1722252609105
+                }
+            },
+            "stickers": {
+                "d58ac69b-751d-4528-ada2-95ec4d7fc04f": "350469b47791",
+                "4f9af8d0-23fe-495f-8138-94be62c8574f": "1b018cc4c06e",
+                "71124bc6-aa7c-4b9f-9f03-5d006a309350": "bf01d6422d0a",
+                "4fce20d2-24d0-4be0-b0df-0736750da030": "1"
+            },
+            "subtasks": []
+        },
+        "f0cd538b-5fbd-4d11-94ca-78de00c0bb2c": {
+            "title": "prTAkUrkUG",
+            "timestamp": 1721709281737,
+            "description": "SObheWLYNQ",
+            "data": {
+                "by": "3937bf97-7b6d-4853-b1af-3d771a4c0c35",
+                "descriptionModifiedAt": 1722252958236
+            },
+            "chat": {
+                "id": "a300cb29-e00b-440f-a290-291c1095c41e",
+                "timestamp": 1722242164831,
+                "dataType": "Chat",
+                "messages": {
+                    "1722252669391": {
+                        "id": "51808d67-f267-46f4-948e-22329a009c84",
+                        "timestamp": 1722252669391,
+                        "dataType": "ChatMessage",
+                        "from": "01389292-d0a4-480e-8db6-ae929109e01e",
+                        "text": "1ст"
+                    }
+                },
+                "lastSeenMessages": {
+                    "01389292-d0a4-480e-8db6-ae929109e01e": 1722252669391,
+                    "fc0ea4d2-d4b8-4c0f-be10-468768831d42": 1722252669391
+                }
+            },
+            "stickers": {
+                "d58ac69b-751d-4528-ada2-95ec4d7fc04f": "350469b47791",
+                "71124bc6-aa7c-4b9f-9f03-5d006a309350": "303b02ee0d82",
+                "4f9af8d0-23fe-495f-8138-94be62c8574f": "1b018cc4c06e",
+                "4fce20d2-24d0-4be0-b0df-0736750da030": "1"
+            },
+            "subtasks": []
+        },
+        "022d1f30-6042-4218-a72b-1d29a1abd0d8": {
+            "title": "BRSERBEnxb",
+            "timestamp": 1721709038728,
+            "description": "uMtVRAdpzp",
+            "data": {
+                "by": "3937bf97-7b6d-4853-b1af-3d771a4c0c35",
+                "descriptionModifiedAt": 1721882204951
+            },
+            "chat": {
+                "id": "4a089d82-bfee-4b10-aff0-0be7da940b4f",
+                "timestamp": 1722406346911,
+                "dataType": "Chat",
+                "messages": {},
+                "lastSeenMessages": {}
+            },
+            "stickers": {
+                "4f9af8d0-23fe-495f-8138-94be62c8574f": "1b018cc4c06e",
+                "d58ac69b-751d-4528-ada2-95ec4d7fc04f": "350469b47791",
+                "71124bc6-aa7c-4b9f-9f03-5d006a309350": "303b02ee0d82",
+                "4fce20d2-24d0-4be0-b0df-0736750da030": "1"
+            },
+            "subtasks": []
+        },
+        "e4670463-94d0-4589-acc4-782db2322b0e": {
+            "title": "qPqUjbxrlI",
+            "timestamp": 1721708847856,
+            "description": "WZLHcFEaMX",
+            "data": {
+                "by": "3937bf97-7b6d-4853-b1af-3d771a4c0c35",
+                "assignTime": 1721708851586,
+                "gtd": {
+                    "state": {
+                        "stage": "new"
+                    },
+                    "history": {
+                        "1721708851585": {
+                            "stage": "new"
+                        }
+                    }
+                },
+                "descriptionModifiedAt": 1721882091322
+            },
+            "chat": {
+                "id": "30e8cae0-1500-4140-a20d-4404a31796a4",
+                "timestamp": 1722406346911,
+                "dataType": "Chat",
+                "messages": {},
+                "lastSeenMessages": {}
+            },
+            "stickers": {
+                "00034c16-00b9-4ac7-ab24-fb60dc92ec5e": "",
+                "d58ac69b-751d-4528-ada2-95ec4d7fc04f": "350469b47791",
+                "4f9af8d0-23fe-495f-8138-94be62c8574f": "1b018cc4c06e",
+                "71124bc6-aa7c-4b9f-9f03-5d006a309350": "bf01d6422d0a",
+                "4fce20d2-24d0-4be0-b0df-0736750da030": "1"
+            },
+            "subtasks": []
+        },
+        "41754ab5-483d-4b6f-976e-10de218dd509": {
+            "title": "ofySsBRDNC",
+            "timestamp": 1721708489215,
+            "description": "UKwmeGdxZc",
+            "data": {
+                "by": "3937bf97-7b6d-4853-b1af-3d771a4c0c35",
+                "descriptionModifiedAt": 1721709514435
+            },
+            "chat": {
+                "id": "9860ac49-80e6-4d4e-a138-a90ded37a5df",
+                "timestamp": 1722406346910,
+                "dataType": "Chat",
+                "messages": {},
+                "lastSeenMessages": {}
+            },
+            "stickers": {
+                "71124bc6-aa7c-4b9f-9f03-5d006a309350": "bf01d6422d0a",
+                "d58ac69b-751d-4528-ada2-95ec4d7fc04f": "350469b47791",
+                "4f9af8d0-23fe-495f-8138-94be62c8574f": "1b018cc4c06e",
+                "4fce20d2-24d0-4be0-b0df-0736750da030": "1"
+            },
+            "subtasks": []
+        },
+        "f7af00c3-e587-4910-a83a-0c1df6a6c9d5": {
+            "title": "cCfPDiyQPL",
+            "timestamp": 1721708333582,
+            "description": "CLQKKwcWkF",
+            "data": {
+                "by": "3937bf97-7b6d-4853-b1af-3d771a4c0c35",
+                "descriptionModifiedAt": 1721882051446
+            },
+            "chat": {
+                "id": "20e1b9f0-e97e-4dbc-9977-ab406140de3b",
+                "timestamp": 1722406346911,
+                "dataType": "Chat",
+                "messages": {},
+                "lastSeenMessages": {}
+            },
+            "stickers": {
+                "d58ac69b-751d-4528-ada2-95ec4d7fc04f": "350469b47791",
+                "4f9af8d0-23fe-495f-8138-94be62c8574f": "1b018cc4c06e",
+                "71124bc6-aa7c-4b9f-9f03-5d006a309350": "1a21c489981f",
+                "4fce20d2-24d0-4be0-b0df-0736750da030": "1"
+            },
+            "subtasks": []
+        },
+        "97ca1dfd-2da6-4c1d-a0a0-ba2147cb5a01": {
+            "title": "XcYkLXBFXq",
+            "timestamp": 1721653579015,
+            "description": "abxtBuuDpm",
+            "data": {
+                "by": "3937bf97-7b6d-4853-b1af-3d771a4c0c35",
+                "descriptionModifiedAt": 1721654466443
+            },
+            "chat": {
+                "id": "4024e539-3ac4-4855-9d6f-04cf99909425",
+                "timestamp": 1722406346910,
+                "dataType": "Chat",
+                "messages": {},
+                "lastSeenMessages": {}
+            },
+            "stickers": {
+                "d58ac69b-751d-4528-ada2-95ec4d7fc04f": "350469b47791",
+                "4f9af8d0-23fe-495f-8138-94be62c8574f": "1b018cc4c06e",
+                "71124bc6-aa7c-4b9f-9f03-5d006a309350": "303b02ee0d82",
+                "4fce20d2-24d0-4be0-b0df-0736750da030": "1"
+            },
+            "subtasks": []
+        },
+        "e1fa9050-933f-4c01-b3a1-b68f0d9b2292": {
+            "title": "akaujqYYjW",
+            "timestamp": 1721649963855,
+            "description": "ZYpeOOXBTf",
+            "data": {
+                "by": "0c2d023d-20e3-4cdf-8969-a6067bf38093"
+            },
+            "chat": {
+                "id": "a49e706e-53f4-466b-9f33-4a07905f742a",
+                "timestamp": 1722242164820,
+                "dataType": "Chat",
+                "messages": {
+                    "1722248540158": {
+                        "id": "c5f0c708-155f-403a-b6ee-dbe2d49ae499",
+                        "timestamp": 1722248540158,
+                        "dataType": "ChatMessage",
+                        "from": "01389292-d0a4-480e-8db6-ae929109e01e",
+                        "text": "Потеряйте 4$ или 9 попы",
+                        "edited": {
+                            "timestamp": 1722248553776
+                        }
+                    },
+                    "1722248600286": {
+                        "id": "b6e6a55e-9f24-48d0-974e-28d2128f6355",
+                        "timestamp": 1722248600286,
+                        "dataType": "ChatMessage",
+                        "from": "01389292-d0a4-480e-8db6-ae929109e01e",
+                        "text": "Два самых популярных игрока?"
+                    }
+                },
+                "lastSeenMessages": {
+                    "01389292-d0a4-480e-8db6-ae929109e01e": 1722248600286,
+                    "0c2d023d-20e3-4cdf-8969-a6067bf38093": 1722248600286,
+                    "fc0ea4d2-d4b8-4c0f-be10-468768831d42": 1722248600286
+                }
+            },
+            "stickers": {
+                "71124bc6-aa7c-4b9f-9f03-5d006a309350": "bf01d6422d0a",
+                "4f9af8d0-23fe-495f-8138-94be62c8574f": "6389805fcadf",
+                "d58ac69b-751d-4528-ada2-95ec4d7fc04f": "a0540b7d087e"
+            },
+            "subtasks": []
+        },
+        "1d654300-96f4-4039-9b6e-f9d42722167c": {
+            "title": "dOvGwlSiVf",
+            "timestamp": 1721649829014,
+            "description": "BwdQwumxYQ",
+            "data": {
+                "by": "0c2d023d-20e3-4cdf-8969-a6067bf38093"
+            },
+            "chat": {
+                "id": "65ef8304-84b0-4f87-bb42-05d0f2754080",
+                "timestamp": 1722406346909,
+                "dataType": "Chat",
+                "messages": {},
+                "lastSeenMessages": {}
+            },
+            "stickers": {
+                "d58ac69b-751d-4528-ada2-95ec4d7fc04f": "a0540b7d087e",
+                "4f9af8d0-23fe-495f-8138-94be62c8574f": "1b018cc4c06e",
+                "71124bc6-aa7c-4b9f-9f03-5d006a309350": "303b02ee0d82"
+            },
+            "subtasks": []
+        },
+        "9d4b8cd8-7674-46d7-afe0-b0f0e19a0e7e": {
+            "title": "zQfQiaQxiR",
+            "timestamp": 1721649643626,
+            "description": "RExjWqxgTG",
+            "data": {
+                "by": "0c2d023d-20e3-4cdf-8969-a6067bf38093"
+            },
+            "chat": {
+                "id": "093b7471-6314-4880-b26d-d86f7bcddc78",
+                "timestamp": 1722406346909,
+                "dataType": "Chat",
+                "messages": {},
+                "lastSeenMessages": {}
+            },
+            "stickers": {
+                "4f9af8d0-23fe-495f-8138-94be62c8574f": "1b018cc4c06e",
+                "71124bc6-aa7c-4b9f-9f03-5d006a309350": "303b02ee0d82",
+                "d58ac69b-751d-4528-ada2-95ec4d7fc04f": "a0540b7d087e"
+            },
+            "subtasks": []
+        },
+        "a75bf87a-1fba-4016-8165-cebb516fa390": {
+            "title": "mELnQYzVgy",
+            "timestamp": 1721560209841,
+            "description": "CfbtjaOZiz",
+            "data": {
+                "by": "fc0ea4d2-d4b8-4c0f-be10-468768831d42",
+                "descriptionModifiedAt": 1722256109303,
+                "mirrors": [
+                    "130b5532-8e40-40dc-959a-0ef12438c131",
+                    "a75bf87a-1fba-4016-8165-cebb516fa390"
+                ]
+            },
+            "chat": {
+                "id": "d28690be-0b48-4900-a2f0-0db80174e089",
+                "timestamp": 1722406346908,
+                "dataType": "Chat",
+                "messages": {},
+                "lastSeenMessages": {}
+            },
+            "stickers": {
+                "71124bc6-aa7c-4b9f-9f03-5d006a309350": "bf01d6422d0a",
+                "d58ac69b-751d-4528-ada2-95ec4d7fc04f": "400ccd355f6e",
+                "4f9af8d0-23fe-495f-8138-94be62c8574f": "6389805fcadf",
+                "4fce20d2-24d0-4be0-b0df-0736750da030": "2"
+            },
+            "subtasks": []
+        },
+        "3dae2900-0483-4b48-8ca1-f1093217b04c": {
+            "title": "WTyNIJPrTj",
+            "timestamp": 1721628559661,
+            "description": "tubUxZstLQ",
+            "data": {
+                "by": "01389292-d0a4-480e-8db6-ae929109e01e",
+                "descriptionModifiedAt": 1721628640572
+            },
+            "chat": {
+                "id": "b881f034-b8d6-4727-8b33-de7f0d7ea577",
+                "timestamp": 1722406346909,
+                "dataType": "Chat",
+                "messages": {},
+                "lastSeenMessages": {}
+            },
+            "stickers": {
+                "71124bc6-aa7c-4b9f-9f03-5d006a309350": "303b02ee0d82",
+                "d58ac69b-751d-4528-ada2-95ec4d7fc04f": "c25964f22f79"
+            },
+            "subtasks": []
+        },
+        "d53f4d2f-c4b1-485f-8d29-c75731fbf842": {
+            "title": "wMuQOujkLS",
+            "timestamp": 1721628360073,
+            "description": "jahcVGdhof",
+            "data": {
+                "by": "01389292-d0a4-480e-8db6-ae929109e01e",
+                "descriptionModifiedAt": 1721882287996
+            },
+            "chat": {
+                "id": "d8356709-00ef-44c2-a452-4bf173c84570",
+                "timestamp": 1722406346911,
+                "dataType": "Chat",
+                "messages": {},
+                "lastSeenMessages": {}
+            },
+            "stickers": {
+                "71124bc6-aa7c-4b9f-9f03-5d006a309350": "bf01d6422d0a",
+                "d58ac69b-751d-4528-ada2-95ec4d7fc04f": "c25964f22f79"
+            },
+            "subtasks": []
+        },
+        "b915a6d0-5d7a-4ddd-a506-e3aadd7fb3e9": {
+            "title": "ikoVgfpffX",
+            "timestamp": 1721628134512,
+            "description": "TcowYxRKtz",
+            "data": {
+                "by": "01389292-d0a4-480e-8db6-ae929109e01e",
+                "descriptionModifiedAt": 1721628330414
+            },
+            "chat": {
+                "id": "b46b65df-6dd0-4e96-b026-2b0c930f494c",
+                "timestamp": 1722406346909,
+                "dataType": "Chat",
+                "messages": {},
+                "lastSeenMessages": {}
+            },
+            "stickers": {
+                "d58ac69b-751d-4528-ada2-95ec4d7fc04f": "c25964f22f79",
+                "71124bc6-aa7c-4b9f-9f03-5d006a309350": "bf01d6422d0a"
+            },
+            "subtasks": []
+        },
+        "a9061b34-b0fe-482d-9d12-baddcb20b2bc": {
+            "title": "WOpgaCoBYC",
+            "timestamp": 1721627383547,
+            "description": "dsnFFmNamx",
+            "data": {
+                "by": "0c2d023d-20e3-4cdf-8969-a6067bf38093",
+                "descriptionModifiedAt": 1721627503282
+            },
+            "chat": {
+                "id": "a61f90cd-90a6-4219-b8c2-60b12e50a668",
+                "timestamp": 1722406346909,
+                "dataType": "Chat",
+                "messages": {},
+                "lastSeenMessages": {}
+            },
+            "stickers": {
+                "71124bc6-aa7c-4b9f-9f03-5d006a309350": "1a21c489981f",
+                "4f9af8d0-23fe-495f-8138-94be62c8574f": "6389805fcadf",
+                "d58ac69b-751d-4528-ada2-95ec4d7fc04f": "a0540b7d087e"
+            },
+            "subtasks": []
+        },
+        "fd40d371-a516-4416-aca5-3a65f69baa95": {
+            "title": "NVdSnsflpO",
+            "timestamp": 1721626923777,
+            "description": "nyGnxnLDxK",
+            "data": {
+                "by": "0c2d023d-20e3-4cdf-8969-a6067bf38093",
+                "descriptionModifiedAt": 1721626985779
+            },
+            "chat": {
+                "id": "c50396d8-61b9-4079-8515-ca11a2050279",
+                "timestamp": 1722406346909,
+                "dataType": "Chat",
+                "messages": {},
+                "lastSeenMessages": {}
+            },
+            "stickers": {
+                "71124bc6-aa7c-4b9f-9f03-5d006a309350": "bf01d6422d0a",
+                "4f9af8d0-23fe-495f-8138-94be62c8574f": "1b018cc4c06e",
+                "d58ac69b-751d-4528-ada2-95ec4d7fc04f": "a0540b7d087e"
+            },
+            "subtasks": []
+        },
+        "e3f23af7-c98e-4b4b-9780-8d8d93c50504": {
+            "title": "gBkNhrTFyE",
+            "timestamp": 1721626381614,
+            "description": "wSrxHqBLBs",
+            "data": {
+                "by": "0c2d023d-20e3-4cdf-8969-a6067bf38093",
+                "descriptionModifiedAt": 1721626435858
+            },
+            "chat": {
+                "id": "0684b66f-0ea7-4a31-88ed-a42b19039a1d",
+                "timestamp": 1722313850397,
+                "dataType": "Chat",
+                "messages": {
+                    "1722314781324": {
+                        "id": "db4b8204-7605-4ff0-ba0c-217f51af4234",
+                        "timestamp": 1722314781324,
+                        "dataType": "ChatMessage",
+                        "from": "fc0ea4d2-d4b8-4c0f-be10-468768831d42",
+                        "text": "Слабее стандартного эффекта\nпредлагаю 4 минимум"
+                    }
+                },
+                "lastSeenMessages": {
+                    "fc0ea4d2-d4b8-4c0f-be10-468768831d42": 1722314781324,
+                    "0c2d023d-20e3-4cdf-8969-a6067bf38093": 1722314781324
+                }
+            },
+            "stickers": {
+                "71124bc6-aa7c-4b9f-9f03-5d006a309350": "bf01d6422d0a",
+                "4f9af8d0-23fe-495f-8138-94be62c8574f": "6389805fcadf",
+                "d58ac69b-751d-4528-ada2-95ec4d7fc04f": "a0540b7d087e"
+            },
+            "subtasks": []
+        }
+    }
+}
